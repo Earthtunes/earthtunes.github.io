@@ -1,0 +1,4614 @@
+{
+ "format": "earthtunes-wave-share-catalog",
+ "schemaVersion": 1,
+ "links": [
+  {
+   "key": "01073373a8dad5de67a7389d3139e7aee741a9bc64d684ca9bad2d6c477e4190",
+   "configuration": {
+    "network": "II",
+    "station": "MBAR",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2021-03-20T17:00:00.000Z",
+    "durationMicroseconds": 1800000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 9,
+    "timeZoneId": "GMT",
+    "stationName": "Mbarara, Uganda"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/8b3878abee3"
+  },
+  {
+   "key": "013b5d0908404d85ceeb189e76c7ca4365cc1e3906b660facd6a07fb1b9ae576",
+   "configuration": {
+    "network": "IU",
+    "station": "DAV",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2013-11-02T00:00:00.000Z",
+    "durationMicroseconds": 28800000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 10,
+    "timeZoneId": "Asia/Manila",
+    "stationName": "Philippines"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/e6150153ee5"
+  },
+  {
+   "key": "03dbf4e7f6dfe5ebf0fa81342a51a82174f8bc1187eb18bf0932fe8cb19a58ee",
+   "configuration": {
+    "network": "II",
+    "station": "MBAR",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2021-03-20T17:00:00.000Z",
+    "durationMicroseconds": 1800000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 7,
+    "timeZoneId": "GMT",
+    "stationName": "Mbarara, Uganda"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/aa93218e9ae"
+  },
+  {
+   "key": "040874ff0aba1589e83c91e0eb866fb6c9f2da165848ee7001b12f8df0aaf0c0",
+   "configuration": {
+    "network": "IU",
+    "station": "DAV",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2013-11-04T00:00:00.000Z",
+    "durationMicroseconds": 28800000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 7,
+    "timeZoneId": "Asia/Manila",
+    "stationName": "Philippines"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/a139c6e2f45"
+  },
+  {
+   "key": "04b7f31802561b8264d78606c01d24f58fcbfbe4e11f57448f4606dee26821b2",
+   "configuration": {
+    "network": "IU",
+    "station": "DAV",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2013-11-09T00:00:00.000Z",
+    "durationMicroseconds": 28800000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 12,
+    "timeZoneId": "Asia/Manila",
+    "stationName": "Philippines"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/13fae1b2215"
+  },
+  {
+   "key": "06f960a801ca205050b60064183e865ba359c25d9710284316c405ceafaf772f",
+   "configuration": {
+    "network": "GT",
+    "station": "LBTB",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2021-03-20T17:00:00.000Z",
+    "durationMicroseconds": 1800000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 14,
+    "timeZoneId": "GMT",
+    "stationName": "Lobatse, Botswana"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/d856ce06786"
+  },
+  {
+   "key": "07bb7e4d25b10c4c16ae0f3dc4aba0b6ca954cbe1240165903a233d1cce96b4a",
+   "configuration": {
+    "network": "IU",
+    "station": "DAV",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2013-11-11T00:00:00.000Z",
+    "durationMicroseconds": 28800000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 13,
+    "timeZoneId": "Asia/Manila",
+    "stationName": "Philippines"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/ab41a477dcb"
+  },
+  {
+   "key": "08bb2256c78de42fcb2e1dfb802e8954508fd4da1d83e2c042bccda74d09a7c4",
+   "configuration": {
+    "network": "NW",
+    "station": "L44A",
+    "location": "00",
+    "channel": "HHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2021-03-26T18:00:00.000Z",
+    "durationMicroseconds": 28800000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 8,
+    "timeZoneId": "America/Chicago",
+    "stationName": "Illinois"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/4d5b5373dae"
+  },
+  {
+   "key": "08fd5d172c1434551de0fcbf1cdc99f5349eff7a580cc7ee7912afd339857f0f",
+   "configuration": {
+    "network": "IU",
+    "station": "DAV",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2013-11-06T00:00:00.000Z",
+    "durationMicroseconds": 28800000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 7,
+    "timeZoneId": "Asia/Manila",
+    "stationName": "Philippines"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/bda426a42fd"
+  },
+  {
+   "key": "099a19ddbf8271172186c177666f051012407221feaad213d1ce90462320b70f",
+   "configuration": {
+    "network": "BK",
+    "station": "MCCM",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2016-12-14T16:00:00.000Z",
+    "durationMicroseconds": 9000000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 11,
+    "timeZoneId": "GMT",
+    "stationName": "California"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/77e646174fe"
+  },
+  {
+   "key": "0abfa70e03853d8071e2fafb3694fe038c9222bccba8ac28e15542e5866560f3",
+   "configuration": {
+    "network": "II",
+    "station": "BORG",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2023-11-10T16:00:00.000Z",
+    "durationMicroseconds": 7200000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 14,
+    "timeZoneId": "GMT",
+    "stationName": "Iceland"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/06bab7cf807"
+  },
+  {
+   "key": "0ad91f0e131b0088e28b8174d9c16b0f494f05b4205ee7fc4817a3e2b96e851d",
+   "configuration": {
+    "network": "IU",
+    "station": "DAV",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2013-11-06T00:00:00.000Z",
+    "durationMicroseconds": 28800000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 10,
+    "timeZoneId": "Asia/Manila",
+    "stationName": "Philippines"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/314852c1421"
+  },
+  {
+   "key": "0c8094959655732b5f0c34eae8623621d3b4f45f2eae0723d4acbda890c3a52e",
+   "configuration": {
+    "network": "GT",
+    "station": "LBTB",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2021-03-20T17:00:00.000Z",
+    "durationMicroseconds": 1800000000,
+    "volumeModifier": "autoAdjusted",
+    "octavesHigher": 7,
+    "timeZoneId": "GMT",
+    "stationName": "Lobatse, Botswana"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/15273fd796c"
+  },
+  {
+   "key": "0f7118b1aeaaefb58fc36eaa5effbc5042c99151ab25794154ada3a364ed68ab",
+   "configuration": {
+    "network": "BK",
+    "station": "MCCM",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2016-12-14T16:00:00.000Z",
+    "durationMicroseconds": 9000000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 8,
+    "timeZoneId": "GMT",
+    "stationName": "California"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/0baef4d1cd3"
+  },
+  {
+   "key": "0fa3d20ed0c83046ecf798503a7493d38212a2b18945d3ae782edddffbeddb8f",
+   "configuration": {
+    "network": "HK",
+    "station": "HKPS",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2020-01-20T07:00:00.000Z",
+    "durationMicroseconds": 14400000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 7,
+    "timeZoneId": "GMT",
+    "stationName": "Po Shan, Hong Kong"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/09375fc1efe"
+  },
+  {
+   "key": "0fdb88d1af7f18da0591486ac1bf5750516e674ee940b26756a210b5e6d7a260",
+   "configuration": {
+    "network": "II",
+    "station": "BORG",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2010-04-15T16:00:00.000Z",
+    "durationMicroseconds": 7200000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 8,
+    "timeZoneId": "GMT",
+    "stationName": "Iceland"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/fb273283f31"
+  },
+  {
+   "key": "11b1ae9653f701b5847378de323f8f3332a37c610f5abaee1744a1ab67fbdbf9",
+   "configuration": {
+    "network": "HK",
+    "station": "HKPS",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2020-01-27T07:00:00.000Z",
+    "durationMicroseconds": 14400000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 11,
+    "timeZoneId": "GMT",
+    "stationName": "Po Shan, Hong Kong"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/5652e178132"
+  },
+  {
+   "key": "1849f2b1e2db1b41618ec165c10bd0391ac7f153edaab4d48501e79fae821399",
+   "configuration": {
+    "network": "II",
+    "station": "BORG",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2023-11-10T16:00:00.000Z",
+    "durationMicroseconds": 7200000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 13,
+    "timeZoneId": "GMT",
+    "stationName": "Iceland"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/8871f06246d"
+  },
+  {
+   "key": "19b44ac36554db0961dac94114696a0235da7b25f7af7874a69e0eb1db07d6fc",
+   "configuration": {
+    "network": "IU",
+    "station": "DAV",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2013-11-02T00:00:00.000Z",
+    "durationMicroseconds": 28800000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 13,
+    "timeZoneId": "Asia/Manila",
+    "stationName": "Philippines"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/01356e29631"
+  },
+  {
+   "key": "1b8a42d8adaed186c461321e1e1e42ce9fbbda7915698c2f47ad827b28ce62f1",
+   "configuration": {
+    "network": "IU",
+    "station": "DAV",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2013-11-04T00:00:00.000Z",
+    "durationMicroseconds": 28800000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 9,
+    "timeZoneId": "Asia/Manila",
+    "stationName": "Philippines"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/28f3a58079c"
+  },
+  {
+   "key": "1c2613d337c611bf3c3da7d640a82d99f0a7909a51419568ab2932bcc7dcf42a",
+   "configuration": {
+    "network": "IU",
+    "station": "DAV",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2013-11-08T00:00:00.000Z",
+    "durationMicroseconds": 28800000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 7,
+    "timeZoneId": "Asia/Manila",
+    "stationName": "Philippines"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/412aa15aba8"
+  },
+  {
+   "key": "1e55cc1b96eb417611f05edac2ebbd007afe4ea053f6ca88eb1967417abf39a7",
+   "configuration": {
+    "network": "NW",
+    "station": "L44A",
+    "location": "00",
+    "channel": "HHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2021-03-26T18:00:00.000Z",
+    "durationMicroseconds": 28800000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 9,
+    "timeZoneId": "America/Chicago",
+    "stationName": "Illinois"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/27763b59ca5"
+  },
+  {
+   "key": "1e6c0a452b55420afa7c6214fd8fd3ec212cb300ccc1cc9e2470ae022d6e8966",
+   "configuration": {
+    "network": "IU",
+    "station": "DAV",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2013-11-11T00:00:00.000Z",
+    "durationMicroseconds": 28800000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 14,
+    "timeZoneId": "Asia/Manila",
+    "stationName": "Philippines"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/16e3018c899"
+  },
+  {
+   "key": "1fc6db98b1d5f87a329a4b6657594dc70a667dd9d7d02982761ffacfe7a44d7b",
+   "configuration": {
+    "network": "II",
+    "station": "BORG",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2023-11-10T16:00:00.000Z",
+    "durationMicroseconds": 7200000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 11,
+    "timeZoneId": "GMT",
+    "stationName": "Iceland"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/e9372ba8808"
+  },
+  {
+   "key": "20ca283fb7ca08d51a3c710a0caf513820d80908ef939cf6d86f6269b6d817ab",
+   "configuration": {
+    "network": "TA",
+    "station": "L44A",
+    "location": "--",
+    "channel": "HHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2016-09-03T12:00:00.000Z",
+    "durationMicroseconds": 3600000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 7,
+    "timeZoneId": "GMT",
+    "stationName": "Illinois"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/603eb196347"
+  },
+  {
+   "key": "21b38d40567b7e3ee933caa29896036823de57367c9bbc79f8d2cf21cc8adc85",
+   "configuration": {
+    "network": "US",
+    "station": "RLMT",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2012-03-20T17:00:00.000Z",
+    "durationMicroseconds": 28800000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 9,
+    "timeZoneId": "GMT",
+    "stationName": "Red Lodge"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/d672d4800e9"
+  },
+  {
+   "key": "22443bc6e71bb768b3e9c32ce1dd9f5850a5777b8064066c21673ce092d85d74",
+   "configuration": {
+    "network": "IU",
+    "station": "DAV",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2013-11-03T00:00:00.000Z",
+    "durationMicroseconds": 28800000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 13,
+    "timeZoneId": "Asia/Manila",
+    "stationName": "Philippines"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/2f7aae0eade"
+  },
+  {
+   "key": "22e43ac8f3490e1328e4bce1938f532c92bbd51ebf62c59810cd0a24631116ac",
+   "configuration": {
+    "network": "US",
+    "station": "RLMT",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2012-03-20T17:00:00.000Z",
+    "durationMicroseconds": 28800000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 11,
+    "timeZoneId": "GMT",
+    "stationName": "Red Lodge"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/34185093116"
+  },
+  {
+   "key": "2450378f5b26223755d9b5ff11a40ddd16680ee4e9a36777a07c239e45c15488",
+   "configuration": {
+    "network": "NW",
+    "station": "L44A",
+    "location": "00",
+    "channel": "HHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2021-03-29T18:00:00.000Z",
+    "durationMicroseconds": 28800000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 13,
+    "timeZoneId": "America/Chicago",
+    "stationName": "Illinois"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/3ee743a0263"
+  },
+  {
+   "key": "24e6fd56a01772a78fb646864c6b59bd05b88ff2be3e3d676946f9bb3f7cf244",
+   "configuration": {
+    "network": "GT",
+    "station": "VNDA",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2020-01-13T00:00:00.000Z",
+    "durationMicroseconds": 7200000000,
+    "volumeModifier": "autoAdjusted",
+    "octavesHigher": 8,
+    "timeZoneId": "GMT",
+    "stationName": "Antarctica Ross"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/79a38ee39dc"
+  },
+  {
+   "key": "25adec748a848982a14a1ace3dfa4baef9d0c38bb64c5ad897a9b1c0ef6a90d3",
+   "configuration": {
+    "network": "TA",
+    "station": "L44A",
+    "location": "--",
+    "channel": "HHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2016-09-03T12:00:00.000Z",
+    "durationMicroseconds": 3600000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 12,
+    "timeZoneId": "GMT",
+    "stationName": "Illinois"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/4fd99126d5c"
+  },
+  {
+   "key": "264239aa6ca364015886cfddf857aa02a82222d8b1193bfb9ec521a0d07008e9",
+   "configuration": {
+    "network": "IU",
+    "station": "DAV",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2013-11-10T00:00:00.000Z",
+    "durationMicroseconds": 28800000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 10,
+    "timeZoneId": "Asia/Manila",
+    "stationName": "Philippines"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/cf79a6ecd9a"
+  },
+  {
+   "key": "275b335a7b9c1392a397c6d1d241cf7d8de1cb430336331e782629f1cfdb16f1",
+   "configuration": {
+    "network": "IU",
+    "station": "DAV",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2013-11-08T00:00:00.000Z",
+    "durationMicroseconds": 28800000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 9,
+    "timeZoneId": "Asia/Manila",
+    "stationName": "Philippines"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/f0d23d5765c"
+  },
+  {
+   "key": "277d2da9c75e23173088ca69a10806cecafbe4a2931c76ea980ad484b85e0216",
+   "configuration": {
+    "network": "IU",
+    "station": "DAV",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2013-11-03T00:00:00.000Z",
+    "durationMicroseconds": 28800000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 12,
+    "timeZoneId": "Asia/Manila",
+    "stationName": "Philippines"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/1593be2dee6"
+  },
+  {
+   "key": "28238a7a72dd155893f7c1568f95312992345503c21ddb0c6b47a480678a06ba",
+   "configuration": {
+    "network": "IU",
+    "station": "DAV",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2013-11-02T00:00:00.000Z",
+    "durationMicroseconds": 28800000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 9,
+    "timeZoneId": "Asia/Manila",
+    "stationName": "Philippines"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/b6fa2b60f2b"
+  },
+  {
+   "key": "2a3d2db077c4fa0c3fcdf9f4562a1ee15e8544f8690601ada2b4b86238304ae6",
+   "configuration": {
+    "network": "IU",
+    "station": "DAV",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2013-11-07T00:00:00.000Z",
+    "durationMicroseconds": 28800000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 9,
+    "timeZoneId": "Asia/Manila",
+    "stationName": "Philippines"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/cd41130d07a"
+  },
+  {
+   "key": "2d61e499b2c1306c344c4c8bdcc65247e0b39d0982d76163b6b9e2332f1f8bb2",
+   "configuration": {
+    "network": "IU",
+    "station": "DAV",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2013-11-04T00:00:00.000Z",
+    "durationMicroseconds": 28800000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 11,
+    "timeZoneId": "Asia/Manila",
+    "stationName": "Philippines"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/d7df5b3cd0e"
+  },
+  {
+   "key": "2e4798661a30ca589d9b7a1afaf3a8fd82798c583b3ac222a398b4857e72fa1b",
+   "configuration": {
+    "network": "IU",
+    "station": "DAV",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2013-11-09T00:00:00.000Z",
+    "durationMicroseconds": 28800000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 11,
+    "timeZoneId": "Asia/Manila",
+    "stationName": "Philippines"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/bce2c3cfb8b"
+  },
+  {
+   "key": "2f206f1715005053d44ebfbeac05aea7f53bf4c4ad3d1ba6f49dece7d97750b2",
+   "configuration": {
+    "network": "IU",
+    "station": "DAV",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2013-11-05T00:00:00.000Z",
+    "durationMicroseconds": 28800000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 13,
+    "timeZoneId": "Asia/Manila",
+    "stationName": "Philippines"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/ee8b47f8648"
+  },
+  {
+   "key": "2f4b9330d03877568ce07cd629237a89a640b307bcca2a449a5c87d8af69ecfb",
+   "configuration": {
+    "network": "HK",
+    "station": "HKPS",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2020-01-20T07:00:00.000Z",
+    "durationMicroseconds": 14400000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 12,
+    "timeZoneId": "GMT",
+    "stationName": "Po Shan, Hong Kong"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/5e57902ad16"
+  },
+  {
+   "key": "2faf18ff1aa0fae10ff9896aed0aebe61f19f83f4c4fe75f0ca388f389219d22",
+   "configuration": {
+    "network": "IU",
+    "station": "DAV",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2013-11-08T00:00:00.000Z",
+    "durationMicroseconds": 28800000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 8,
+    "timeZoneId": "Asia/Manila",
+    "stationName": "Philippines"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/884d69aac6a"
+  },
+  {
+   "key": "315e8cb8eb3ee41d6aa6a3ae6029fb636ca0bbb88bca3bf582421c93df4ad169",
+   "configuration": {
+    "network": "II",
+    "station": "BORG",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2023-09-18T22:30:00.000Z",
+    "durationMicroseconds": 7200000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 8,
+    "timeZoneId": "GMT",
+    "stationName": "Iceland"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/ec54499dfb0"
+  },
+  {
+   "key": "341f26555cd6eceac0ecda44b98aec1956d01fb583f52c457c06b95155bb5afb",
+   "configuration": {
+    "network": "TA",
+    "station": "H17A",
+    "location": "--",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2012-03-20T17:00:00.000Z",
+    "durationMicroseconds": 28800000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 10,
+    "timeZoneId": "GMT",
+    "stationName": "Yellowstone"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/d8059576c2d"
+  },
+  {
+   "key": "3597de7ebacb65cdf571ff39e2188a9cad099e7f2d6b3b23ab4d20ea83ac2a0f",
+   "configuration": {
+    "network": "XB",
+    "station": "ELYSE",
+    "location": "02",
+    "channel": "BHW",
+    "unit": "m/s",
+    "planet": "mars",
+    "startDate": "2020-01-13T00:00:00.000Z",
+    "durationMicroseconds": 7200000000,
+    "volumeModifier": "autoAdjusted",
+    "octavesHigher": 13,
+    "timeZoneId": "GMT",
+    "stationName": "Mars InSight"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/f89f788d682"
+  },
+  {
+   "key": "365bff6a1630c0178818f6b4d268f999afcacbc250e89c3465d393c79b848b81",
+   "configuration": {
+    "network": "II",
+    "station": "PFO",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2009-03-24T11:00:00.000Z",
+    "durationMicroseconds": 7200000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 13,
+    "timeZoneId": "GMT",
+    "stationName": "California"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/6b2b4920169"
+  },
+  {
+   "key": "37c679bc6509591d8017fde777ada1d57c3c42752264c2405927a8b2b2c63709",
+   "configuration": {
+    "network": "II",
+    "station": "PFO",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2009-03-24T11:00:00.000Z",
+    "durationMicroseconds": 7200000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 14,
+    "timeZoneId": "GMT",
+    "stationName": "California"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/4a0d3924a8d"
+  },
+  {
+   "key": "3abc65722d22c4737347248c7e964b18b19422675093f784a7fea054e76b21b7",
+   "configuration": {
+    "network": "IU",
+    "station": "DAV",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2013-11-10T00:00:00.000Z",
+    "durationMicroseconds": 28800000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 9,
+    "timeZoneId": "Asia/Manila",
+    "stationName": "Philippines"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/a9a9974e496"
+  },
+  {
+   "key": "3b7a64bd1a13529fdd18f005d8fbcec95cb7d18b94f32e1aa9bf48f44f566685",
+   "configuration": {
+    "network": "IU",
+    "station": "DAV",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2013-11-09T00:00:00.000Z",
+    "durationMicroseconds": 28800000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 13,
+    "timeZoneId": "Asia/Manila",
+    "stationName": "Philippines"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/2e7bd51ea39"
+  },
+  {
+   "key": "3c22d2183ea40e155632d1ae7e17bb88f42a371fc4088f8ab0ea869d3063c9ea",
+   "configuration": {
+    "network": "NW",
+    "station": "L44A",
+    "location": "00",
+    "channel": "HHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2021-03-26T18:00:00.000Z",
+    "durationMicroseconds": 28800000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 10,
+    "timeZoneId": "America/Chicago",
+    "stationName": "Illinois"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/602e6fd6b8d"
+  },
+  {
+   "key": "3c87a541f2e6ad2ccb1aef4b154c4b635d0382ceccd5ac2d95919f215a17aafc",
+   "configuration": {
+    "network": "II",
+    "station": "PFO",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2009-03-24T11:00:00.000Z",
+    "durationMicroseconds": 7200000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 9,
+    "timeZoneId": "GMT",
+    "stationName": "California"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/7832e31d6d2"
+  },
+  {
+   "key": "3f8ab393cd6d8c34986e271f68b987c7c70fad48cc87a7ea06aed7fee5f6d7c1",
+   "configuration": {
+    "network": "IU",
+    "station": "DAV",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2013-11-08T00:00:00.000Z",
+    "durationMicroseconds": 28800000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 13,
+    "timeZoneId": "Asia/Manila",
+    "stationName": "Philippines"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/06b92b86383"
+  },
+  {
+   "key": "3fe7b294e3bc5ec0d42f934508791c832494c1dae58efd09642c5b69af535ebd",
+   "configuration": {
+    "network": "II",
+    "station": "BORG",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2023-11-10T16:00:00.000Z",
+    "durationMicroseconds": 7200000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 9,
+    "timeZoneId": "GMT",
+    "stationName": "Iceland"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/776e2fbf0ca"
+  },
+  {
+   "key": "40b3e858a32a880d39a4798723b671fece1881d341cef82ad958a60b57411813",
+   "configuration": {
+    "network": "IU",
+    "station": "DAV",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2013-11-06T00:00:00.000Z",
+    "durationMicroseconds": 28800000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 13,
+    "timeZoneId": "Asia/Manila",
+    "stationName": "Philippines"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/3553a7bc276"
+  },
+  {
+   "key": "422bcf90c4e142edce3a4bc697fc8d49da142dc6dea8a23bc81bff605a9b662a",
+   "configuration": {
+    "network": "C1",
+    "station": "VA01",
+    "location": "--",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2021-03-22T13:00:00.000Z",
+    "durationMicroseconds": 1800000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 9,
+    "timeZoneId": "America/Santiago",
+    "stationName": "Valparaiso, Chile"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/2199ceca180"
+  },
+  {
+   "key": "44dbb64dae341438a2cabe6369a27c87a8c759507175ac0aa950e5b4eb5d58c3",
+   "configuration": {
+    "network": "NW",
+    "station": "L44A",
+    "location": "00",
+    "channel": "HHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2021-03-26T18:00:00.000Z",
+    "durationMicroseconds": 28800000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 7,
+    "timeZoneId": "America/Chicago",
+    "stationName": "Illinois"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/e2a1ec10a23"
+  },
+  {
+   "key": "457747e4b047197d196eff049a0123b62e96fc1072f0a926d4916d4deeb7a86a",
+   "configuration": {
+    "network": "US",
+    "station": "RLMT",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2012-03-20T17:00:00.000Z",
+    "durationMicroseconds": 28800000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 10,
+    "timeZoneId": "GMT",
+    "stationName": "Red Lodge"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/ad1e656b9d7"
+  },
+  {
+   "key": "4613da7ff40a9755701cd2e456c838162a51cfbd922011bd1ddb2a584ae2e7e0",
+   "configuration": {
+    "network": "IU",
+    "station": "PAYG",
+    "location": "10",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2020-01-13T00:00:00.000Z",
+    "durationMicroseconds": 7200000000,
+    "volumeModifier": "autoAdjusted",
+    "octavesHigher": 9,
+    "timeZoneId": "GMT",
+    "stationName": "Galapagos"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/d128b5695c3"
+  },
+  {
+   "key": "4a329c7632d1a83f43bb3e76ee546592280062cea6f1124db9beb6bd7a8b8a0a",
+   "configuration": {
+    "network": "TA",
+    "station": "Y22D",
+    "location": "--",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2016-09-03T12:00:00.000Z",
+    "durationMicroseconds": 3600000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 9,
+    "timeZoneId": "GMT",
+    "stationName": "Mexico"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/e668510ac12"
+  },
+  {
+   "key": "4c63339b6562fe26c50e50415e34f7472661d817553660301c6b8f9c1821978c",
+   "configuration": {
+    "network": "TA",
+    "station": "Y22D",
+    "location": "--",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2016-09-03T12:00:00.000Z",
+    "durationMicroseconds": 3600000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 8,
+    "timeZoneId": "GMT",
+    "stationName": "Mexico"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/263597c1bb5"
+  },
+  {
+   "key": "4ca432b14df560df1c06f41217dd3b22e9fbc37525cd233bd1a774ec99e5462f",
+   "configuration": {
+    "network": "C1",
+    "station": "VA01",
+    "location": "--",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2021-03-22T13:00:00.000Z",
+    "durationMicroseconds": 1800000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 13,
+    "timeZoneId": "America/Santiago",
+    "stationName": "Valparaiso, Chile"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/aba5e55650c"
+  },
+  {
+   "key": "4d0f11490df25eba99d4e45cdeafa0d9c0effcb5fbb0ba574e6ece679ac7cbad",
+   "configuration": {
+    "network": "BK",
+    "station": "MCCM",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2016-12-14T16:00:00.000Z",
+    "durationMicroseconds": 9000000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 12,
+    "timeZoneId": "GMT",
+    "stationName": "California"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/40ae7608b36"
+  },
+  {
+   "key": "4d8cbcef189d136ac0e78a4e4984927231eec94a3e51cddef70b60ea52f96d81",
+   "configuration": {
+    "network": "XB",
+    "station": "ELYSE",
+    "location": "02",
+    "channel": "BHW",
+    "unit": "m/s",
+    "planet": "mars",
+    "startDate": "2020-01-13T00:00:00.000Z",
+    "durationMicroseconds": 7200000000,
+    "volumeModifier": "autoAdjusted",
+    "octavesHigher": 11,
+    "timeZoneId": "GMT",
+    "stationName": "Mars InSight"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/d77331012d5"
+  },
+  {
+   "key": "4dad337ad7b15a21129691b498da95a56a2106d07d05f0eec2bdff29fbbe9c91",
+   "configuration": {
+    "network": "IU",
+    "station": "DAV",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2013-11-01T00:00:00.000Z",
+    "durationMicroseconds": 28800000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 9,
+    "timeZoneId": "Asia/Manila",
+    "stationName": "Philippines"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/398932e9ac4"
+  },
+  {
+   "key": "4ef7fcbba47f1e3faa1dd1267217c4e2cdce88670f49d0afc7a7c1a9bbc2c215",
+   "configuration": {
+    "network": "HK",
+    "station": "HKPS",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2020-01-20T07:00:00.000Z",
+    "durationMicroseconds": 14400000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 11,
+    "timeZoneId": "GMT",
+    "stationName": "Po Shan, Hong Kong"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/abcba504df5"
+  },
+  {
+   "key": "4f0b8ebc80cfab2aa920f7b9b34ba5031f20f0e7cb4c929045df278bd479754c",
+   "configuration": {
+    "network": "IU",
+    "station": "PAYG",
+    "location": "10",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2020-01-13T00:00:00.000Z",
+    "durationMicroseconds": 7200000000,
+    "volumeModifier": "autoAdjusted",
+    "octavesHigher": 12,
+    "timeZoneId": "GMT",
+    "stationName": "Galapagos"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/d11af6233fd"
+  },
+  {
+   "key": "4f60517629515e06b998b62a20ecef4cb30cf2ffffc61121ae5c0fbcf2044b9b",
+   "configuration": {
+    "network": "II",
+    "station": "MBAR",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2021-03-20T17:00:00.000Z",
+    "durationMicroseconds": 1800000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 13,
+    "timeZoneId": "GMT",
+    "stationName": "Mbarara, Uganda"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/d8df7e65ec3"
+  },
+  {
+   "key": "5160d05be7ed384d40268eca4f0f4fa1e44f437e6491d215571272801a810657",
+   "configuration": {
+    "network": "IU",
+    "station": "DAV",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2013-11-11T00:00:00.000Z",
+    "durationMicroseconds": 28800000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 8,
+    "timeZoneId": "Asia/Manila",
+    "stationName": "Philippines"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/16d5952f1a5"
+  },
+  {
+   "key": "51882896ffa95a7d48b6e6e570f217528be2e00124fda1861e2fd48b3ab036e4",
+   "configuration": {
+    "network": "II",
+    "station": "BORG",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2023-09-18T22:30:00.000Z",
+    "durationMicroseconds": 7200000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 14,
+    "timeZoneId": "GMT",
+    "stationName": "Iceland"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/c024e52afc0"
+  },
+  {
+   "key": "51d517a6462272bf06aa51aeddde52ddb18248bcc40f39d6aaeea714d3075c79",
+   "configuration": {
+    "network": "II",
+    "station": "BORG",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2010-04-15T16:00:00.000Z",
+    "durationMicroseconds": 7200000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 13,
+    "timeZoneId": "GMT",
+    "stationName": "Iceland"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/4eb498fda59"
+  },
+  {
+   "key": "51e592f54f813ff5fe2f9a52140b13d338f318fe8eab7be6ceb2a81cc1e68603",
+   "configuration": {
+    "network": "GT",
+    "station": "LBTB",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2021-03-20T17:00:00.000Z",
+    "durationMicroseconds": 1800000000,
+    "volumeModifier": "autoAdjusted",
+    "octavesHigher": 11,
+    "timeZoneId": "GMT",
+    "stationName": "Lobatse, Botswana"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/67867266657"
+  },
+  {
+   "key": "5366ea31efd8d019a84d9078f6175f9df7b106ac997463cbaff728ab60b02c4d",
+   "configuration": {
+    "network": "IU",
+    "station": "DAV",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2013-11-02T00:00:00.000Z",
+    "durationMicroseconds": 28800000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 14,
+    "timeZoneId": "Asia/Manila",
+    "stationName": "Philippines"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/eafb8c5814d"
+  },
+  {
+   "key": "53c0430c2fbb54bd6b3a266577dc75a6b828bfb631d30a66dd576c416c89eda0",
+   "configuration": {
+    "network": "US",
+    "station": "RLMT",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2012-03-20T17:00:00.000Z",
+    "durationMicroseconds": 28800000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 12,
+    "timeZoneId": "GMT",
+    "stationName": "Red Lodge"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/b04ad97f710"
+  },
+  {
+   "key": "551a6aa50cabc5b131b9a38367c34215a2d9a9d3ed03113c9fcfe83b0a9efa85",
+   "configuration": {
+    "network": "IU",
+    "station": "DAV",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2013-11-04T00:00:00.000Z",
+    "durationMicroseconds": 28800000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 13,
+    "timeZoneId": "Asia/Manila",
+    "stationName": "Philippines"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/239fa75e404"
+  },
+  {
+   "key": "5590bf2a0f57d9119d14a003634df9e53240f0fbb7a002e1fc53a91ff05ed493",
+   "configuration": {
+    "network": "IU",
+    "station": "PAYG",
+    "location": "10",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2020-01-13T00:00:00.000Z",
+    "durationMicroseconds": 7200000000,
+    "volumeModifier": "autoAdjusted",
+    "octavesHigher": 10,
+    "timeZoneId": "GMT",
+    "stationName": "Galapagos"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/4d5c675cdc5"
+  },
+  {
+   "key": "55e762529fcbff02ef72933809993065c993c49db1ce801843eaaf6da69e27ba",
+   "configuration": {
+    "network": "XB",
+    "station": "ELYSE",
+    "location": "02",
+    "channel": "BHW",
+    "unit": "m/s",
+    "planet": "mars",
+    "startDate": "2020-01-13T00:00:00.000Z",
+    "durationMicroseconds": 7200000000,
+    "volumeModifier": "autoAdjusted",
+    "octavesHigher": 8,
+    "timeZoneId": "GMT",
+    "stationName": "Mars InSight"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/d6b75943ac7"
+  },
+  {
+   "key": "56b9147aa2f58515208de92afa99fb372ae2bf052ca2ed022082eff668f0ff6b",
+   "configuration": {
+    "network": "HK",
+    "station": "HKPS",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2020-01-20T07:00:00.000Z",
+    "durationMicroseconds": 14400000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 9,
+    "timeZoneId": "GMT",
+    "stationName": "Po Shan, Hong Kong"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/8d6d9f8e743"
+  },
+  {
+   "key": "5712aec14d426884f9c533230a7e6f48bf479a60460445e69877943dd5036fa0",
+   "configuration": {
+    "network": "TA",
+    "station": "Y22D",
+    "location": "--",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2016-09-03T12:00:00.000Z",
+    "durationMicroseconds": 3600000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 10,
+    "timeZoneId": "GMT",
+    "stationName": "Mexico"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/021c769153d"
+  },
+  {
+   "key": "57e2d34a0d89f6441b5c828851cebfa63cf60172149bc0584ff47e53d529580d",
+   "configuration": {
+    "network": "C1",
+    "station": "VA01",
+    "location": "--",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2021-03-22T13:00:00.000Z",
+    "durationMicroseconds": 1800000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 7,
+    "timeZoneId": "America/Santiago",
+    "stationName": "Valparaiso, Chile"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/e922ccd067c"
+  },
+  {
+   "key": "5809d80b49d05c725fd278cfdb19fdd3b09f5aceff3ab61b38c95e0887e92da2",
+   "configuration": {
+    "network": "II",
+    "station": "BORG",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2023-11-10T16:00:00.000Z",
+    "durationMicroseconds": 7200000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 8,
+    "timeZoneId": "GMT",
+    "stationName": "Iceland"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/6ed316ab205"
+  },
+  {
+   "key": "59337bf51e6ea9fbe0129ea82dc3dd30db709281b763a4cfc7fdfa2677c16e1b",
+   "configuration": {
+    "network": "IU",
+    "station": "DAV",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2013-11-06T00:00:00.000Z",
+    "durationMicroseconds": 28800000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 14,
+    "timeZoneId": "Asia/Manila",
+    "stationName": "Philippines"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/a596c76c2d3"
+  },
+  {
+   "key": "59618a9e34095fcc3223cfed9244c0afcc380ebfdea637b08ac910b8ab23228d",
+   "configuration": {
+    "network": "TA",
+    "station": "L44A",
+    "location": "--",
+    "channel": "HHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2016-09-03T12:00:00.000Z",
+    "durationMicroseconds": 3600000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 10,
+    "timeZoneId": "GMT",
+    "stationName": "Illinois"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/5e2d1203e61"
+  },
+  {
+   "key": "59a6ac94cc5cd7f21fd0e0b3c860675c84bfbeb5ac9bbdf002a903be07b21d5e",
+   "configuration": {
+    "network": "II",
+    "station": "BORG",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2023-12-18T22:30:00.000Z",
+    "durationMicroseconds": 7200000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 13,
+    "timeZoneId": "GMT",
+    "stationName": "Iceland"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/20a5d4a9a23"
+  },
+  {
+   "key": "5b14f2258f4428dd1cd3dce3143eec1d30f2ebfb67d0f00ec9a845c6df60adb4",
+   "configuration": {
+    "network": "TA",
+    "station": "H17A",
+    "location": "--",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2012-03-20T17:00:00.000Z",
+    "durationMicroseconds": 28800000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 11,
+    "timeZoneId": "GMT",
+    "stationName": "Yellowstone"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/f339d75e67b"
+  },
+  {
+   "key": "5b5dbc43cb44a2931c41d94b8a2885c7c5e257d456ba2e5400252d8ff6456e55",
+   "configuration": {
+    "network": "IU",
+    "station": "DAV",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2013-11-06T00:00:00.000Z",
+    "durationMicroseconds": 28800000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 8,
+    "timeZoneId": "Asia/Manila",
+    "stationName": "Philippines"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/1b8b4ceb6bb"
+  },
+  {
+   "key": "5c228722a2225c8297ef786ca21937a730d8109c63302a114dfb8230e36fc500",
+   "configuration": {
+    "network": "TA",
+    "station": "H17A",
+    "location": "--",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2012-03-20T17:00:00.000Z",
+    "durationMicroseconds": 28800000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 9,
+    "timeZoneId": "GMT",
+    "stationName": "Yellowstone"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/c4faeb61ef5"
+  },
+  {
+   "key": "5c95bf250269f54bd284934711a3f8bafca7cd984f72368929834e0403adbdac",
+   "configuration": {
+    "network": "IU",
+    "station": "DAV",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2013-11-05T00:00:00.000Z",
+    "durationMicroseconds": 28800000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 12,
+    "timeZoneId": "Asia/Manila",
+    "stationName": "Philippines"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/2b9ce233bb3"
+  },
+  {
+   "key": "5dc32e760310b54de3c379b19da8c9cb4b1e6cb457c56531944c16a3aada39e7",
+   "configuration": {
+    "network": "II",
+    "station": "BORG",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2023-12-18T22:30:00.000Z",
+    "durationMicroseconds": 7200000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 14,
+    "timeZoneId": "GMT",
+    "stationName": "Iceland"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/c86bb66b35b"
+  },
+  {
+   "key": "5de7e1d58a256421257e7621e2a8973530e7407fc6499f023e771b6c381d4d54",
+   "configuration": {
+    "network": "II",
+    "station": "MBAR",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2021-03-20T17:00:00.000Z",
+    "durationMicroseconds": 1800000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 10,
+    "timeZoneId": "GMT",
+    "stationName": "Mbarara, Uganda"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/905277bf202"
+  },
+  {
+   "key": "5e1760bebd1145ffdf8194e17853327917b756963027dc3cb3b5c3a763815837",
+   "configuration": {
+    "network": "XB",
+    "station": "ELYSE",
+    "location": "02",
+    "channel": "BHW",
+    "unit": "m/s",
+    "planet": "mars",
+    "startDate": "2020-01-13T00:00:00.000Z",
+    "durationMicroseconds": 7200000000,
+    "volumeModifier": "autoAdjusted",
+    "octavesHigher": 12,
+    "timeZoneId": "GMT",
+    "stationName": "Mars InSight"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/143b5a4d3ce"
+  },
+  {
+   "key": "5e8f9016ea27a0aeda6b7ff17b864a6abcd5c2e7159ac5a4dfb8ebcedb781e64",
+   "configuration": {
+    "network": "IU",
+    "station": "DAV",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2013-11-07T00:00:00.000Z",
+    "durationMicroseconds": 28800000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 10,
+    "timeZoneId": "Asia/Manila",
+    "stationName": "Philippines"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/426145c51f4"
+  },
+  {
+   "key": "5f48ae69db685f6abb31ab129726f6d13e55fe9bb19797d57fa930eeffcb3004",
+   "configuration": {
+    "network": "IU",
+    "station": "DAV",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2013-11-08T00:00:00.000Z",
+    "durationMicroseconds": 28800000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 10,
+    "timeZoneId": "Asia/Manila",
+    "stationName": "Philippines"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/59991a74a54"
+  },
+  {
+   "key": "5faa3f9b1b98bdcd8a8fa4bb2853245b9fc9b4b93822825b9a856ac48b723051",
+   "configuration": {
+    "network": "TA",
+    "station": "L44A",
+    "location": "--",
+    "channel": "HHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2016-09-03T12:00:00.000Z",
+    "durationMicroseconds": 3600000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 9,
+    "timeZoneId": "GMT",
+    "stationName": "Illinois"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/86dd3c0d3cf"
+  },
+  {
+   "key": "6047e13d8c5375509ee812a9e79f169c564c5d6887e30a155ef38a86556b7ac5",
+   "configuration": {
+    "network": "IU",
+    "station": "DAV",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2013-11-05T00:00:00.000Z",
+    "durationMicroseconds": 28800000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 8,
+    "timeZoneId": "Asia/Manila",
+    "stationName": "Philippines"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/51443ed4c42"
+  },
+  {
+   "key": "605f92c0bb5d1a87f0e270311a942253027acf6ba96c9b292185a17bc1bbf587",
+   "configuration": {
+    "network": "GT",
+    "station": "LBTB",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2021-03-20T17:00:00.000Z",
+    "durationMicroseconds": 1800000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 9,
+    "timeZoneId": "GMT",
+    "stationName": "Lobatse, Botswana"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/c97beb190aa"
+  },
+  {
+   "key": "60bf73c939c947f4f706acfd139e54b6a2d9062dc2456f9e4d5ff9e63ca12050",
+   "configuration": {
+    "network": "US",
+    "station": "RLMT",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2012-03-20T17:00:00.000Z",
+    "durationMicroseconds": 28800000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 7,
+    "timeZoneId": "GMT",
+    "stationName": "Red Lodge"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/7fca3720164"
+  },
+  {
+   "key": "624eb5c0ab250862a7f1ad401b2251702d251460d4a39e378f28c7646feaf872",
+   "configuration": {
+    "network": "NW",
+    "station": "L44A",
+    "location": "00",
+    "channel": "HHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2021-03-29T18:00:00.000Z",
+    "durationMicroseconds": 28800000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 9,
+    "timeZoneId": "America/Chicago",
+    "stationName": "Illinois"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/14b5fe16502"
+  },
+  {
+   "key": "62506b0b49e0949f5cb8dba4975967a43aac4b53e893550832137161c39cc734",
+   "configuration": {
+    "network": "IU",
+    "station": "DAV",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2013-11-09T00:00:00.000Z",
+    "durationMicroseconds": 28800000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 7,
+    "timeZoneId": "Asia/Manila",
+    "stationName": "Philippines"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/673c416e709"
+  },
+  {
+   "key": "63887a962d8052ae231cbfec12097b8343272654e6050cde2b581dce6150aa4e",
+   "configuration": {
+    "network": "IU",
+    "station": "DAV",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2013-11-02T00:00:00.000Z",
+    "durationMicroseconds": 28800000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 7,
+    "timeZoneId": "Asia/Manila",
+    "stationName": "Philippines"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/fabae5d127d"
+  },
+  {
+   "key": "64c20c4279facf64b2986641d592d2a0da1c450461e3e086b5d7d84768b698e9",
+   "configuration": {
+    "network": "II",
+    "station": "BORG",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2023-09-18T22:30:00.000Z",
+    "durationMicroseconds": 7200000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 13,
+    "timeZoneId": "GMT",
+    "stationName": "Iceland"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/fee2b225e68"
+  },
+  {
+   "key": "65ca86996f6581af8c1da6da305b4218cfe073e10546ab48a66699f8c02bfab2",
+   "configuration": {
+    "network": "IU",
+    "station": "DAV",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2013-11-11T00:00:00.000Z",
+    "durationMicroseconds": 28800000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 12,
+    "timeZoneId": "Asia/Manila",
+    "stationName": "Philippines"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/c4e161374e3"
+  },
+  {
+   "key": "680c46b47df5ac35af1d6ef432f622873f09e70536fe16da6629bc7f95625eef",
+   "configuration": {
+    "network": "NW",
+    "station": "L44A",
+    "location": "00",
+    "channel": "HHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2021-03-26T18:00:00.000Z",
+    "durationMicroseconds": 28800000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 11,
+    "timeZoneId": "America/Chicago",
+    "stationName": "Illinois"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/4a3f170a408"
+  },
+  {
+   "key": "68112b5c2400476c9cf00122451fe8c186f73b971ab016a1287f1f4d0790ba74",
+   "configuration": {
+    "network": "IU",
+    "station": "DAV",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2013-11-09T00:00:00.000Z",
+    "durationMicroseconds": 28800000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 9,
+    "timeZoneId": "Asia/Manila",
+    "stationName": "Philippines"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/41b7d9fd2f1"
+  },
+  {
+   "key": "69ad3d4926a15578cf56db67715f99e86aea22ea830ef27ec70878c9f0075625",
+   "configuration": {
+    "network": "IU",
+    "station": "DAV",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2013-11-04T00:00:00.000Z",
+    "durationMicroseconds": 28800000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 8,
+    "timeZoneId": "Asia/Manila",
+    "stationName": "Philippines"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/c232abf5f8d"
+  },
+  {
+   "key": "6af87127bebc50f7b41fd4da2a384dc24b83713a45bf945af64704a7382cc390",
+   "configuration": {
+    "network": "HK",
+    "station": "HKPS",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2020-01-20T07:00:00.000Z",
+    "durationMicroseconds": 14400000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 14,
+    "timeZoneId": "GMT",
+    "stationName": "Po Shan, Hong Kong"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/9436732bccd"
+  },
+  {
+   "key": "6c32fd2615861d01f5c9393a25beabbc79370e00dedb5a71db00149138d91863",
+   "configuration": {
+    "network": "BK",
+    "station": "MCCM",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2016-12-14T16:00:00.000Z",
+    "durationMicroseconds": 9000000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 13,
+    "timeZoneId": "GMT",
+    "stationName": "California"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/1dfcf4fdd87"
+  },
+  {
+   "key": "6c7b7e727c77f08a5225be8665a98d3fb89c267ed95d84e897a78427ef3d90c8",
+   "configuration": {
+    "network": "IU",
+    "station": "DAV",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2013-11-11T00:00:00.000Z",
+    "durationMicroseconds": 28800000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 7,
+    "timeZoneId": "Asia/Manila",
+    "stationName": "Philippines"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/4a21d5cf0bc"
+  },
+  {
+   "key": "6ddd7d856ed7f9ad6be8cda86384a16c5f8485eda1c2a37c65afc96863bceed3",
+   "configuration": {
+    "network": "IU",
+    "station": "DAV",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2013-11-07T00:00:00.000Z",
+    "durationMicroseconds": 28800000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 11,
+    "timeZoneId": "Asia/Manila",
+    "stationName": "Philippines"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/99a56094d7b"
+  },
+  {
+   "key": "6f08f32c79a4957394526f3e4ef8112127fa789b57091e4473450e831789b564",
+   "configuration": {
+    "network": "II",
+    "station": "BORG",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2010-04-15T16:00:00.000Z",
+    "durationMicroseconds": 7200000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 11,
+    "timeZoneId": "GMT",
+    "stationName": "Iceland"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/db0701c6809"
+  },
+  {
+   "key": "6ffa0eb0c7bb4b8412e956e056f9117dd859ebeb96d352d388f75bdeadf22711",
+   "configuration": {
+    "network": "GT",
+    "station": "VNDA",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2020-01-13T00:00:00.000Z",
+    "durationMicroseconds": 7200000000,
+    "volumeModifier": "autoAdjusted",
+    "octavesHigher": 11,
+    "timeZoneId": "GMT",
+    "stationName": "Antarctica Ross"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/bd6a6391254"
+  },
+  {
+   "key": "7157aadc4764a05e5a35012e8602ed6bc19eabd4a63d12aeeb0831080e8e6273",
+   "configuration": {
+    "network": "IU",
+    "station": "DAV",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2013-11-02T00:00:00.000Z",
+    "durationMicroseconds": 28800000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 8,
+    "timeZoneId": "Asia/Manila",
+    "stationName": "Philippines"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/bb164e59bed"
+  },
+  {
+   "key": "72f457883c152c18edc8a9d9a226a0a624140d9e8ce5b6397cc8110a0f1a42b4",
+   "configuration": {
+    "network": "GT",
+    "station": "LBTB",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2021-03-20T17:00:00.000Z",
+    "durationMicroseconds": 1800000000,
+    "volumeModifier": "autoAdjusted",
+    "octavesHigher": 14,
+    "timeZoneId": "GMT",
+    "stationName": "Lobatse, Botswana"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/087d42783f9"
+  },
+  {
+   "key": "73db70f4ebfb96294e0084f5e931d55db313a186a3f1d883e2626df6121d2e3c",
+   "configuration": {
+    "network": "IU",
+    "station": "DAV",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2013-11-03T00:00:00.000Z",
+    "durationMicroseconds": 28800000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 14,
+    "timeZoneId": "Asia/Manila",
+    "stationName": "Philippines"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/a1e0a2380c6"
+  },
+  {
+   "key": "7412e9a5e7dd26f96cc987b2b44f7cf59396ce26481ec5e8c84d69600d53e3db",
+   "configuration": {
+    "network": "II",
+    "station": "BORG",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2023-12-18T22:30:00.000Z",
+    "durationMicroseconds": 7200000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 10,
+    "timeZoneId": "GMT",
+    "stationName": "Iceland"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/e3150820b98"
+  },
+  {
+   "key": "754101fe2b10ec8b235adc81d11342e5984155a3b2f4c3652e1024e879c54885",
+   "configuration": {
+    "network": "II",
+    "station": "BORG",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2023-09-18T22:30:00.000Z",
+    "durationMicroseconds": 7200000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 9,
+    "timeZoneId": "GMT",
+    "stationName": "Iceland"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/181ec7fc303"
+  },
+  {
+   "key": "758041a539e0b206510fd90c1ef77609d8da329c75834093d4f23d943b2038e9",
+   "configuration": {
+    "network": "HK",
+    "station": "HKPS",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2020-01-27T07:00:00.000Z",
+    "durationMicroseconds": 14400000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 9,
+    "timeZoneId": "GMT",
+    "stationName": "Po Shan, Hong Kong"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/80c73f82267"
+  },
+  {
+   "key": "75ae881d4565a4357bd052d95360bf7ccc15feade6eaa7b1fc1ca509e26c635d",
+   "configuration": {
+    "network": "IU",
+    "station": "PAYG",
+    "location": "10",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2020-01-13T00:00:00.000Z",
+    "durationMicroseconds": 7200000000,
+    "volumeModifier": "autoAdjusted",
+    "octavesHigher": 11,
+    "timeZoneId": "GMT",
+    "stationName": "Galapagos"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/bca716e6bd4"
+  },
+  {
+   "key": "762469857afe8448a720b472e98d75abea6fae9536fe69ce9ab0ca13e8f1b903",
+   "configuration": {
+    "network": "GT",
+    "station": "LBTB",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2021-03-20T17:00:00.000Z",
+    "durationMicroseconds": 1800000000,
+    "volumeModifier": "autoAdjusted",
+    "octavesHigher": 9,
+    "timeZoneId": "GMT",
+    "stationName": "Lobatse, Botswana"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/ac174ae7186"
+  },
+  {
+   "key": "766ff18114a1ce395f9d3d857ea6ac3f23abee2487e559c3f7d6276c1ba9664f",
+   "configuration": {
+    "network": "TA",
+    "station": "Y22D",
+    "location": "--",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2016-09-03T12:00:00.000Z",
+    "durationMicroseconds": 3600000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 14,
+    "timeZoneId": "GMT",
+    "stationName": "Mexico"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/71b6e963ca1"
+  },
+  {
+   "key": "7712a75641efe21e87d6f7971fd0b081a4f692271fd1b649d6fc926a63cd69b2",
+   "configuration": {
+    "network": "IU",
+    "station": "DAV",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2013-11-02T00:00:00.000Z",
+    "durationMicroseconds": 28800000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 12,
+    "timeZoneId": "Asia/Manila",
+    "stationName": "Philippines"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/2b4c8b4c123"
+  },
+  {
+   "key": "77bc76aa2b2840e76f556d1fce8c4fc5a46a77dfb6328d26cdb7b34da7bfa671",
+   "configuration": {
+    "network": "GT",
+    "station": "VNDA",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2020-01-13T00:00:00.000Z",
+    "durationMicroseconds": 7200000000,
+    "volumeModifier": "autoAdjusted",
+    "octavesHigher": 10,
+    "timeZoneId": "GMT",
+    "stationName": "Antarctica Ross"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/b8e13a63897"
+  },
+  {
+   "key": "79bb0cd8c8cd42811d8097f17807ba8059543f5fe010aff798b6c25b9d2e6d60",
+   "configuration": {
+    "network": "HK",
+    "station": "HKPS",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2020-01-27T07:00:00.000Z",
+    "durationMicroseconds": 14400000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 12,
+    "timeZoneId": "GMT",
+    "stationName": "Po Shan, Hong Kong"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/1a751161f51"
+  },
+  {
+   "key": "7a81c5c0f1c3e2369276bf856a15878dbe625dad0482158f1dfedf39b9bddf79",
+   "configuration": {
+    "network": "IU",
+    "station": "DAV",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2013-11-09T00:00:00.000Z",
+    "durationMicroseconds": 28800000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 10,
+    "timeZoneId": "Asia/Manila",
+    "stationName": "Philippines"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/cecfc3f9e92"
+  },
+  {
+   "key": "7acadba0aa4a2cbebb53ac375c1eff8524fc0362a12219410c980468bc541c60",
+   "configuration": {
+    "network": "TA",
+    "station": "H17A",
+    "location": "--",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2012-03-20T17:00:00.000Z",
+    "durationMicroseconds": 28800000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 7,
+    "timeZoneId": "GMT",
+    "stationName": "Yellowstone"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/0dcc8b7f1eb"
+  },
+  {
+   "key": "7c02ac688e33ad41445c1a9f3f1355ce5e3942d3b3789fbc5340a7da7c300e15",
+   "configuration": {
+    "network": "HK",
+    "station": "HKPS",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2020-01-27T07:00:00.000Z",
+    "durationMicroseconds": 14400000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 7,
+    "timeZoneId": "GMT",
+    "stationName": "Po Shan, Hong Kong"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/ce3d6b2e362"
+  },
+  {
+   "key": "7ca7b68880802975913b941764c2ce73cc54526c523cae225c4278175e76f08e",
+   "configuration": {
+    "network": "II",
+    "station": "BORG",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2010-04-15T16:00:00.000Z",
+    "durationMicroseconds": 7200000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 9,
+    "timeZoneId": "GMT",
+    "stationName": "Iceland"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/1ae41399acc"
+  },
+  {
+   "key": "7cd54344863a898039ae3e788eb05e2f4d61b7fe1e6894b05f1dfd1a00b2321d",
+   "configuration": {
+    "network": "GT",
+    "station": "LBTB",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2021-03-20T17:00:00.000Z",
+    "durationMicroseconds": 1800000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 11,
+    "timeZoneId": "GMT",
+    "stationName": "Lobatse, Botswana"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/35fbc444d70"
+  },
+  {
+   "key": "7d664f4c73c32ad2fdff8761c5ae81bf6f34dfc7c16a15e47c54628db36c8f97",
+   "configuration": {
+    "network": "BK",
+    "station": "MCCM",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2016-12-14T16:00:00.000Z",
+    "durationMicroseconds": 9000000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 14,
+    "timeZoneId": "GMT",
+    "stationName": "California"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/79ad19e1ab5"
+  },
+  {
+   "key": "7fbd6cd028ac9b9c918e97119e4e8d0524ea96c3a0a9c83e6cbcec92e1deeaa5",
+   "configuration": {
+    "network": "IU",
+    "station": "DAV",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2013-11-08T00:00:00.000Z",
+    "durationMicroseconds": 28800000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 12,
+    "timeZoneId": "Asia/Manila",
+    "stationName": "Philippines"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/6ecbe95ef94"
+  },
+  {
+   "key": "802d32bcd262323d1fb8900e4217ee8e83fdcf449be7f114af1626e9641bc619",
+   "configuration": {
+    "network": "TA",
+    "station": "H17A",
+    "location": "--",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2012-03-20T17:00:00.000Z",
+    "durationMicroseconds": 28800000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 13,
+    "timeZoneId": "GMT",
+    "stationName": "Yellowstone"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/afc1f570210"
+  },
+  {
+   "key": "8093852d4d82672b740a277d5eea406e83326f0a79557b35664ed26212813595",
+   "configuration": {
+    "network": "II",
+    "station": "BORG",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2023-09-18T22:30:00.000Z",
+    "durationMicroseconds": 7200000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 10,
+    "timeZoneId": "GMT",
+    "stationName": "Iceland"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/db1297b53a9"
+  },
+  {
+   "key": "80b369dd79a8c5d71fae6127e08c3b16080fead08f85504b5153dbc90a2812c3",
+   "configuration": {
+    "network": "NW",
+    "station": "L44A",
+    "location": "00",
+    "channel": "HHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2021-03-29T18:00:00.000Z",
+    "durationMicroseconds": 28800000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 12,
+    "timeZoneId": "America/Chicago",
+    "stationName": "Illinois"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/4136b73a9e6"
+  },
+  {
+   "key": "80dce082c4e0bea748155da5cdb0880e080be3284a1c4ca6c59ee2615af5109a",
+   "configuration": {
+    "network": "II",
+    "station": "MBAR",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2021-03-20T17:00:00.000Z",
+    "durationMicroseconds": 1800000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 11,
+    "timeZoneId": "GMT",
+    "stationName": "Mbarara, Uganda"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/3f03d86384f"
+  },
+  {
+   "key": "81707720c2d6513d0eea5df0775027d5d6cfb6f75580a738f79fed62aac83c44",
+   "configuration": {
+    "network": "IU",
+    "station": "DAV",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2013-11-08T00:00:00.000Z",
+    "durationMicroseconds": 28800000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 14,
+    "timeZoneId": "Asia/Manila",
+    "stationName": "Philippines"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/666f5bc1946"
+  },
+  {
+   "key": "832d4de03a4a0111f9a79fc6b98cc185209c35f63a9ad6388eafe7a1198c32fb",
+   "configuration": {
+    "network": "GT",
+    "station": "VNDA",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2020-01-13T00:00:00.000Z",
+    "durationMicroseconds": 7200000000,
+    "volumeModifier": "autoAdjusted",
+    "octavesHigher": 12,
+    "timeZoneId": "GMT",
+    "stationName": "Antarctica Ross"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/3565e3b42ac"
+  },
+  {
+   "key": "846120ea22099527e334dbd351319929911e7bbef3ac48f495ec0e86df64fcaf",
+   "configuration": {
+    "network": "IU",
+    "station": "DAV",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2013-11-10T00:00:00.000Z",
+    "durationMicroseconds": 28800000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 13,
+    "timeZoneId": "Asia/Manila",
+    "stationName": "Philippines"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/483f4e3f2ca"
+  },
+  {
+   "key": "85220ceb6fe9ada6ae818c50a548665b02634aa06a1a571566a0d3bf928889fc",
+   "configuration": {
+    "network": "HK",
+    "station": "HKPS",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2020-01-27T07:00:00.000Z",
+    "durationMicroseconds": 14400000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 10,
+    "timeZoneId": "GMT",
+    "stationName": "Po Shan, Hong Kong"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/b95ae0d1cba"
+  },
+  {
+   "key": "85289c99a45e54e76297f3ed812e8c099e7e47acb000058c6c3166617bc4a907",
+   "configuration": {
+    "network": "II",
+    "station": "BORG",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2010-04-15T16:00:00.000Z",
+    "durationMicroseconds": 7200000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 12,
+    "timeZoneId": "GMT",
+    "stationName": "Iceland"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/464b2643e23"
+  },
+  {
+   "key": "85818abd0f5715a2e2b6db0d1cc8ffcf63694fa5743ad27e27914748e3b205e7",
+   "configuration": {
+    "network": "II",
+    "station": "BORG",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2023-09-18T22:30:00.000Z",
+    "durationMicroseconds": 7200000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 12,
+    "timeZoneId": "GMT",
+    "stationName": "Iceland"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/871c911f8d1"
+  },
+  {
+   "key": "86b76c303e112cdffa8ada847d636ab40a39c2fee784f3dfdad9ff377db2bb0d",
+   "configuration": {
+    "network": "II",
+    "station": "PFO",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2009-03-24T11:00:00.000Z",
+    "durationMicroseconds": 7200000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 10,
+    "timeZoneId": "GMT",
+    "stationName": "California"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/5ecdc0dc771"
+  },
+  {
+   "key": "87356a632bab9129189ea4cdd06faf151c2b78dae39786b61c1f572f6d2e4317",
+   "configuration": {
+    "network": "II",
+    "station": "MBAR",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2021-03-20T17:00:00.000Z",
+    "durationMicroseconds": 1800000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 8,
+    "timeZoneId": "GMT",
+    "stationName": "Mbarara, Uganda"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/9c418c4e578"
+  },
+  {
+   "key": "895630d01d4f1380a36af607d7d6f50019ff56fedfd80a239dc5cd0f9713bc08",
+   "configuration": {
+    "network": "GT",
+    "station": "VNDA",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2020-01-13T00:00:00.000Z",
+    "durationMicroseconds": 7200000000,
+    "volumeModifier": "autoAdjusted",
+    "octavesHigher": 13,
+    "timeZoneId": "GMT",
+    "stationName": "Antarctica Ross"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/9a15eb9b4f9"
+  },
+  {
+   "key": "8b0cc605b2bab45dbf3a76360779b3c4fb3a357a1255ca001b4eebd92ff7d5ea",
+   "configuration": {
+    "network": "IU",
+    "station": "PAYG",
+    "location": "10",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2020-01-13T00:00:00.000Z",
+    "durationMicroseconds": 7200000000,
+    "volumeModifier": "autoAdjusted",
+    "octavesHigher": 8,
+    "timeZoneId": "GMT",
+    "stationName": "Galapagos"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/588abf5a00b"
+  },
+  {
+   "key": "916c23d49f52a6755dcd289b8a558dc2cce4929b960c9a2ecbc4bbdbe7d2efe6",
+   "configuration": {
+    "network": "II",
+    "station": "BORG",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2023-12-18T22:30:00.000Z",
+    "durationMicroseconds": 7200000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 8,
+    "timeZoneId": "GMT",
+    "stationName": "Iceland"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/a93d5024b51"
+  },
+  {
+   "key": "91ce6b8a027977ed0b13e36ba07d81851faa15e6fe3c866c065b19675ff0ebb1",
+   "configuration": {
+    "network": "II",
+    "station": "BORG",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2023-12-18T22:30:00.000Z",
+    "durationMicroseconds": 7200000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 12,
+    "timeZoneId": "GMT",
+    "stationName": "Iceland"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/a5d4b2ae0eb"
+  },
+  {
+   "key": "93607414de64ae1abaec3ade40d7c8c160fc82528cb6bd12bfd10b7d06c75dcd",
+   "configuration": {
+    "network": "GT",
+    "station": "LBTB",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2021-03-20T17:00:00.000Z",
+    "durationMicroseconds": 1800000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 8,
+    "timeZoneId": "GMT",
+    "stationName": "Lobatse, Botswana"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/6ea191e2dfc"
+  },
+  {
+   "key": "9387d5f733f697b626c51da3e6225a87cd88c6a555ed2576de55f20c2793b75d",
+   "configuration": {
+    "network": "IU",
+    "station": "DAV",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2013-11-06T00:00:00.000Z",
+    "durationMicroseconds": 28800000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 12,
+    "timeZoneId": "Asia/Manila",
+    "stationName": "Philippines"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/8ae774a31df"
+  },
+  {
+   "key": "96a354478935a0a6cfef4c5603d12ca456925dee53a7ec7d317216eed4bc4bcd",
+   "configuration": {
+    "network": "IU",
+    "station": "PAYG",
+    "location": "10",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2020-01-13T00:00:00.000Z",
+    "durationMicroseconds": 7200000000,
+    "volumeModifier": "autoAdjusted",
+    "octavesHigher": 7,
+    "timeZoneId": "GMT",
+    "stationName": "Galapagos"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/b1819b84cac"
+  },
+  {
+   "key": "986c1cd9d417bd17a12505e89f09c5090bddc89afba22d20aecb86c9d2327df6",
+   "configuration": {
+    "network": "XB",
+    "station": "ELYSE",
+    "location": "02",
+    "channel": "BHW",
+    "unit": "m/s",
+    "planet": "mars",
+    "startDate": "2020-01-13T00:00:00.000Z",
+    "durationMicroseconds": 7200000000,
+    "volumeModifier": "autoAdjusted",
+    "octavesHigher": 9,
+    "timeZoneId": "GMT",
+    "stationName": "Mars InSight"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/6ffc018fc01"
+  },
+  {
+   "key": "98aba2ee7659088b821383b7fc45e98177ae88ad62c7c2de354163a0d5395368",
+   "configuration": {
+    "network": "II",
+    "station": "PFO",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2009-03-24T11:00:00.000Z",
+    "durationMicroseconds": 7200000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 12,
+    "timeZoneId": "GMT",
+    "stationName": "California"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/71199746d55"
+  },
+  {
+   "key": "9a8fb726941c61a96f48cae7f9a5c8b5fbbf0ef067440d3e53c4216f255380de",
+   "configuration": {
+    "network": "US",
+    "station": "RLMT",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2012-03-20T17:00:00.000Z",
+    "durationMicroseconds": 28800000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 14,
+    "timeZoneId": "GMT",
+    "stationName": "Red Lodge"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/3f1ba3ada64"
+  },
+  {
+   "key": "9b35788f1ab318e082857df9c681aaf8c378ffe399ecd734cf0d7edb3b7e673b",
+   "configuration": {
+    "network": "II",
+    "station": "BORG",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2023-12-18T22:30:00.000Z",
+    "durationMicroseconds": 7200000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 9,
+    "timeZoneId": "GMT",
+    "stationName": "Iceland"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/8a41c911022"
+  },
+  {
+   "key": "9c117ef97df0627d14a2991e055a70f99d13efc98d6c9eff82f9e15d9a88e413",
+   "configuration": {
+    "network": "IU",
+    "station": "DAV",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2013-11-06T00:00:00.000Z",
+    "durationMicroseconds": 28800000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 11,
+    "timeZoneId": "Asia/Manila",
+    "stationName": "Philippines"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/45144e3c35b"
+  },
+  {
+   "key": "9e04990a993eee573ac33783b1d406d0a6a188315f6e2ddfb895424fe758a43b",
+   "configuration": {
+    "network": "C1",
+    "station": "VA01",
+    "location": "--",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2021-03-22T13:00:00.000Z",
+    "durationMicroseconds": 1800000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 8,
+    "timeZoneId": "America/Santiago",
+    "stationName": "Valparaiso, Chile"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/7b9b0baa9ab"
+  },
+  {
+   "key": "9ee12ca0699499a1858d652b75f05d79ba123a4e23b142c2ea291cf31a72dcc5",
+   "configuration": {
+    "network": "IU",
+    "station": "DAV",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2013-11-03T00:00:00.000Z",
+    "durationMicroseconds": 28800000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 8,
+    "timeZoneId": "Asia/Manila",
+    "stationName": "Philippines"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/239d45d9568"
+  },
+  {
+   "key": "9fef4e11ee14b33a16cbeadbbdcda6b5af68a3f5b8296887d360375076199dcd",
+   "configuration": {
+    "network": "IU",
+    "station": "DAV",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2013-11-07T00:00:00.000Z",
+    "durationMicroseconds": 28800000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 14,
+    "timeZoneId": "Asia/Manila",
+    "stationName": "Philippines"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/009dfc66da7"
+  },
+  {
+   "key": "a005e5a9f35e02ebd06bfe2a509d486473765a5c21b572b4f90095ebb94cce71",
+   "configuration": {
+    "network": "IU",
+    "station": "DAV",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2013-11-01T00:00:00.000Z",
+    "durationMicroseconds": 28800000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 11,
+    "timeZoneId": "Asia/Manila",
+    "stationName": "Philippines"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/553d00a31ef"
+  },
+  {
+   "key": "a046cd2e14a0b035e0d7b7d6d214568558b1427aa8e9771814c4dd9b75f34cad",
+   "configuration": {
+    "network": "II",
+    "station": "MBAR",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2021-03-20T17:00:00.000Z",
+    "durationMicroseconds": 1800000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 14,
+    "timeZoneId": "GMT",
+    "stationName": "Mbarara, Uganda"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/b10df257679"
+  },
+  {
+   "key": "a05a6583d666a055bd2f9ba64fb5b7758c881bdf56fd9fa287d4d245d815a34a",
+   "configuration": {
+    "network": "IU",
+    "station": "DAV",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2013-11-03T00:00:00.000Z",
+    "durationMicroseconds": 28800000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 7,
+    "timeZoneId": "Asia/Manila",
+    "stationName": "Philippines"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/8c60c5f5610"
+  },
+  {
+   "key": "a1bc5220d1b89c7e88059dc4ef2931153abd703a7ac9cfbbd5440cde8a088be7",
+   "configuration": {
+    "network": "II",
+    "station": "BORG",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2010-04-15T16:00:00.000Z",
+    "durationMicroseconds": 7200000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 10,
+    "timeZoneId": "GMT",
+    "stationName": "Iceland"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/fb404e563a8"
+  },
+  {
+   "key": "a1da830dd502e25a08f325a118e331b8d56955682ed5dc2f1921aa65dad71016",
+   "configuration": {
+    "network": "II",
+    "station": "BORG",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2023-11-10T16:00:00.000Z",
+    "durationMicroseconds": 7200000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 12,
+    "timeZoneId": "GMT",
+    "stationName": "Iceland"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/e7227d22dca"
+  },
+  {
+   "key": "a2de3c0819c704ec4a67d5af9833d62e74bf2ba63c294ba5ca490650840375f1",
+   "configuration": {
+    "network": "TA",
+    "station": "L44A",
+    "location": "--",
+    "channel": "HHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2016-09-03T12:00:00.000Z",
+    "durationMicroseconds": 3600000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 8,
+    "timeZoneId": "GMT",
+    "stationName": "Illinois"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/35eb409a14d"
+  },
+  {
+   "key": "a389201265172f16888c8badec51f454c7872a7b80891769e5ec964051c17bb6",
+   "configuration": {
+    "network": "IU",
+    "station": "DAV",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2013-11-06T00:00:00.000Z",
+    "durationMicroseconds": 28800000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 9,
+    "timeZoneId": "Asia/Manila",
+    "stationName": "Philippines"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/73a3937ef15"
+  },
+  {
+   "key": "a41d1aef792ab1c42bf75fd2a39c4529b3fae00775a7021855d6f104ca171af5",
+   "configuration": {
+    "network": "II",
+    "station": "BORG",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2023-12-18T22:30:00.000Z",
+    "durationMicroseconds": 7200000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 11,
+    "timeZoneId": "GMT",
+    "stationName": "Iceland"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/ab7a4d3b268"
+  },
+  {
+   "key": "a58e0edc360ca1a59d323a1c636fbb383ea8f6386295c370fbadde612115d7a0",
+   "configuration": {
+    "network": "BK",
+    "station": "MCCM",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2016-12-14T16:00:00.000Z",
+    "durationMicroseconds": 9000000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 7,
+    "timeZoneId": "GMT",
+    "stationName": "California"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/e304a5ce49d"
+  },
+  {
+   "key": "aa1ceaaa4d65ea6c5475138124d8609cf8abbb65c0780dbf8b09b2d60a5570da",
+   "configuration": {
+    "network": "C1",
+    "station": "VA01",
+    "location": "--",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2021-03-22T13:00:00.000Z",
+    "durationMicroseconds": 1800000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 10,
+    "timeZoneId": "America/Santiago",
+    "stationName": "Valparaiso, Chile"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/c37488a88ce"
+  },
+  {
+   "key": "aaf9d697f87461bfa16d69d0ce68a6ce4bd3ebfb5e423686f900e8a884f0fcfb",
+   "configuration": {
+    "network": "IU",
+    "station": "DAV",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2013-11-02T00:00:00.000Z",
+    "durationMicroseconds": 28800000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 11,
+    "timeZoneId": "Asia/Manila",
+    "stationName": "Philippines"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/241cc1213a9"
+  },
+  {
+   "key": "acc09aab0a667f915e5d9e4732d50cc814ea71ab5fad8cd99db69772aa17f060",
+   "configuration": {
+    "network": "IU",
+    "station": "DAV",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2013-11-11T00:00:00.000Z",
+    "durationMicroseconds": 28800000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 9,
+    "timeZoneId": "Asia/Manila",
+    "stationName": "Philippines"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/3ecc4a5896f"
+  },
+  {
+   "key": "acd0a7dd4a01fa478511307c2baf5fb2c38b145c72c21e504f3cd075ca1d6047",
+   "configuration": {
+    "network": "GT",
+    "station": "LBTB",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2021-03-20T17:00:00.000Z",
+    "durationMicroseconds": 1800000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 12,
+    "timeZoneId": "GMT",
+    "stationName": "Lobatse, Botswana"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/5ade233b3c3"
+  },
+  {
+   "key": "acf7e85faf6b626039892dacfd9e645283d05c24f3bda17b238b16547875410d",
+   "configuration": {
+    "network": "GT",
+    "station": "LBTB",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2021-03-20T17:00:00.000Z",
+    "durationMicroseconds": 1800000000,
+    "volumeModifier": "autoAdjusted",
+    "octavesHigher": 13,
+    "timeZoneId": "GMT",
+    "stationName": "Lobatse, Botswana"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/e5139620af8"
+  },
+  {
+   "key": "ad61c67916fd0dc3ca08c05c2efe333031753a6161ee1bebd2779b0a71e681a7",
+   "configuration": {
+    "network": "II",
+    "station": "PFO",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2009-03-24T11:00:00.000Z",
+    "durationMicroseconds": 7200000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 7,
+    "timeZoneId": "GMT",
+    "stationName": "California"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/6d826dccfba"
+  },
+  {
+   "key": "ae4a3757f0cfbaa2f475330cd28de7742e56feccc72e4949221946955b0e4df6",
+   "configuration": {
+    "network": "GT",
+    "station": "LBTB",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2021-03-20T17:00:00.000Z",
+    "durationMicroseconds": 1800000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 7,
+    "timeZoneId": "GMT",
+    "stationName": "Lobatse, Botswana"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/ffc3b114bdd"
+  },
+  {
+   "key": "af607d536eb778d7f3dda905f8bf34791e348ddb3f145f8685a8e9d4bcc922f2",
+   "configuration": {
+    "network": "GT",
+    "station": "VNDA",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2020-01-13T00:00:00.000Z",
+    "durationMicroseconds": 7200000000,
+    "volumeModifier": "autoAdjusted",
+    "octavesHigher": 7,
+    "timeZoneId": "GMT",
+    "stationName": "Antarctica Ross"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/79f5df572ed"
+  },
+  {
+   "key": "afe58c4ae3704749550dab562096b1c5105bc6930f707a5c92526679f03dcaf6",
+   "configuration": {
+    "network": "BK",
+    "station": "MCCM",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2016-12-14T16:00:00.000Z",
+    "durationMicroseconds": 9000000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 10,
+    "timeZoneId": "GMT",
+    "stationName": "California"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/dc992564378"
+  },
+  {
+   "key": "b04c1f02cc3c060708cc18afbd14aaafa0e7c591374830151a8e0763984b516a",
+   "configuration": {
+    "network": "GT",
+    "station": "LBTB",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2021-03-20T17:00:00.000Z",
+    "durationMicroseconds": 1800000000,
+    "volumeModifier": "autoAdjusted",
+    "octavesHigher": 8,
+    "timeZoneId": "GMT",
+    "stationName": "Lobatse, Botswana"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/5c9f2e67914"
+  },
+  {
+   "key": "b20b505714191da94013d85a1042dc2580fb8a25388d6810c239609b2cc6d777",
+   "configuration": {
+    "network": "IU",
+    "station": "DAV",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2013-11-09T00:00:00.000Z",
+    "durationMicroseconds": 28800000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 14,
+    "timeZoneId": "Asia/Manila",
+    "stationName": "Philippines"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/e234d74c2c0"
+  },
+  {
+   "key": "b2c74281eea35cebcf55582e29d48c6e271a2c7e13243d12c97e221691f885aa",
+   "configuration": {
+    "network": "IU",
+    "station": "DAV",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2013-11-01T00:00:00.000Z",
+    "durationMicroseconds": 28800000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 12,
+    "timeZoneId": "Asia/Manila",
+    "stationName": "Philippines"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/187dfa21dd1"
+  },
+  {
+   "key": "b2f63cb193e7d45cdc4b6c7f1f8550af6d783b976e48fd45af1e5a262525b816",
+   "configuration": {
+    "network": "BK",
+    "station": "MCCM",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2016-12-14T16:00:00.000Z",
+    "durationMicroseconds": 9000000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 9,
+    "timeZoneId": "GMT",
+    "stationName": "California"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/5f531b5bec5"
+  },
+  {
+   "key": "b5419ee14fb6d0e507ced37421f89bc27a10609b2eb3fc1f2b68515f6ec3c453",
+   "configuration": {
+    "network": "IU",
+    "station": "DAV",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2013-11-03T00:00:00.000Z",
+    "durationMicroseconds": 28800000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 9,
+    "timeZoneId": "Asia/Manila",
+    "stationName": "Philippines"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/a8de2776cc5"
+  },
+  {
+   "key": "b5cf05f8cd14048fa188585679aa17beeb44d0d6a3b94ba54c79a7a630752b88",
+   "configuration": {
+    "network": "TA",
+    "station": "Y22D",
+    "location": "--",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2016-09-03T12:00:00.000Z",
+    "durationMicroseconds": 3600000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 12,
+    "timeZoneId": "GMT",
+    "stationName": "Mexico"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/e3befc0400e"
+  },
+  {
+   "key": "b614403d380f75f3132d40a76ed54c38e59788f5037f0b8d0cb36580bfc3a70f",
+   "configuration": {
+    "network": "NW",
+    "station": "L44A",
+    "location": "00",
+    "channel": "HHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2021-03-26T18:00:00.000Z",
+    "durationMicroseconds": 28800000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 13,
+    "timeZoneId": "America/Chicago",
+    "stationName": "Illinois"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/91cdc29be3b"
+  },
+  {
+   "key": "b74600a825dd435dbe0bda5971ea77d261dda37a77f0aa42892ea4c1bd1ec048",
+   "configuration": {
+    "network": "GT",
+    "station": "LBTB",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2021-03-20T17:00:00.000Z",
+    "durationMicroseconds": 1800000000,
+    "volumeModifier": "autoAdjusted",
+    "octavesHigher": 10,
+    "timeZoneId": "GMT",
+    "stationName": "Lobatse, Botswana"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/f7a52eee590"
+  },
+  {
+   "key": "b74e735869c9fd52041ebb81118e34aff165283302c81102d8a14f305c5e11d4",
+   "configuration": {
+    "network": "US",
+    "station": "RLMT",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2012-03-20T17:00:00.000Z",
+    "durationMicroseconds": 28800000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 8,
+    "timeZoneId": "GMT",
+    "stationName": "Red Lodge"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/83380108cad"
+  },
+  {
+   "key": "b78622a76504f22fdd30c71d6a3566ada86a7302019489e311b8032ac72ac6ef",
+   "configuration": {
+    "network": "NW",
+    "station": "L44A",
+    "location": "00",
+    "channel": "HHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2021-03-29T18:00:00.000Z",
+    "durationMicroseconds": 28800000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 14,
+    "timeZoneId": "America/Chicago",
+    "stationName": "Illinois"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/016e27b9814"
+  },
+  {
+   "key": "bab1ea49764c020ac1e528a8635e1dd8e3c4918f4f1375fb7f66eafe2ae13e97",
+   "configuration": {
+    "network": "NW",
+    "station": "L44A",
+    "location": "00",
+    "channel": "HHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2021-03-29T18:00:00.000Z",
+    "durationMicroseconds": 28800000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 8,
+    "timeZoneId": "America/Chicago",
+    "stationName": "Illinois"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/da7e2b8d351"
+  },
+  {
+   "key": "bb1e788ba6a3e65c1e6f99d3f2034c244758d1425993504861e6d4995bde18e1",
+   "configuration": {
+    "network": "TA",
+    "station": "H17A",
+    "location": "--",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2012-03-20T17:00:00.000Z",
+    "durationMicroseconds": 28800000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 12,
+    "timeZoneId": "GMT",
+    "stationName": "Yellowstone"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/d10eddb4901"
+  },
+  {
+   "key": "bc79cd6677ae295f5db6c1b63c2b3702ef67d360c2d2cd0b6b68a9d566c4f722",
+   "configuration": {
+    "network": "HK",
+    "station": "HKPS",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2020-01-27T07:00:00.000Z",
+    "durationMicroseconds": 14400000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 14,
+    "timeZoneId": "GMT",
+    "stationName": "Po Shan, Hong Kong"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/de9c18569c1"
+  },
+  {
+   "key": "beadd266c45b7809a978a11227d9617d81da95b53488ee7f2ad0c31efaeb91f0",
+   "configuration": {
+    "network": "GT",
+    "station": "LBTB",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2021-03-20T17:00:00.000Z",
+    "durationMicroseconds": 1800000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 10,
+    "timeZoneId": "GMT",
+    "stationName": "Lobatse, Botswana"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/68afe5c6a3f"
+  },
+  {
+   "key": "beb86a117034cfc2b1c312035632a83db5b4d06b5986990d17fb2b5251efc445",
+   "configuration": {
+    "network": "II",
+    "station": "MBAR",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2021-03-20T17:00:00.000Z",
+    "durationMicroseconds": 1800000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 12,
+    "timeZoneId": "GMT",
+    "stationName": "Mbarara, Uganda"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/1ea67516b60"
+  },
+  {
+   "key": "bf46b17e7b969766ac74bf72bc693c885b58f5ee7683d050f326ecf4dd397594",
+   "configuration": {
+    "network": "II",
+    "station": "BORG",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2023-09-18T22:30:00.000Z",
+    "durationMicroseconds": 7200000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 11,
+    "timeZoneId": "GMT",
+    "stationName": "Iceland"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/d9d9330798f"
+  },
+  {
+   "key": "bf5cbb5ae60efa20224df058fc99717af44e43fe9fbd7577f49b07982aa6c178",
+   "configuration": {
+    "network": "IU",
+    "station": "DAV",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2013-11-10T00:00:00.000Z",
+    "durationMicroseconds": 28800000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 12,
+    "timeZoneId": "Asia/Manila",
+    "stationName": "Philippines"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/f0c7a5e2a8c"
+  },
+  {
+   "key": "bfe16f661d9d998715ec48e41abf0a4858ce0185ebbad27bc8b79d53292d64b3",
+   "configuration": {
+    "network": "IU",
+    "station": "DAV",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2013-11-10T00:00:00.000Z",
+    "durationMicroseconds": 28800000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 14,
+    "timeZoneId": "Asia/Manila",
+    "stationName": "Philippines"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/91a56f94394"
+  },
+  {
+   "key": "c21bf26a9e5b81f9438156b2110537a55753d8f3cbaa85101b2c46ec3c019f85",
+   "configuration": {
+    "network": "IU",
+    "station": "DAV",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2013-11-10T00:00:00.000Z",
+    "durationMicroseconds": 28800000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 7,
+    "timeZoneId": "Asia/Manila",
+    "stationName": "Philippines"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/06432134f2e"
+  },
+  {
+   "key": "c268e83141fdc5e7783bb7cd24b40ed28d0d0a37a9941771c7295be02ee6e878",
+   "configuration": {
+    "network": "TA",
+    "station": "Y22D",
+    "location": "--",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2016-09-03T12:00:00.000Z",
+    "durationMicroseconds": 3600000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 7,
+    "timeZoneId": "GMT",
+    "stationName": "Mexico"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/42e4597ed03"
+  },
+  {
+   "key": "c3bf8bdecf9234c35a8ffeaa7295edefdd1f7fa0c6326f4bace09bdbaf3df290",
+   "configuration": {
+    "network": "IU",
+    "station": "PAYG",
+    "location": "10",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2020-01-13T00:00:00.000Z",
+    "durationMicroseconds": 7200000000,
+    "volumeModifier": "autoAdjusted",
+    "octavesHigher": 14,
+    "timeZoneId": "GMT",
+    "stationName": "Galapagos"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/7c9d33df72f"
+  },
+  {
+   "key": "c464e317114bbc165d523e9cbfea9ded3789bdd2a10b660ebe6aa24db1a32e4b",
+   "configuration": {
+    "network": "IU",
+    "station": "DAV",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2013-11-07T00:00:00.000Z",
+    "durationMicroseconds": 28800000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 12,
+    "timeZoneId": "Asia/Manila",
+    "stationName": "Philippines"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/701598cfb50"
+  },
+  {
+   "key": "c65273c77aadb9982688d9060fad58c93abede6b3678da38ff6a19012fd570cc",
+   "configuration": {
+    "network": "IU",
+    "station": "DAV",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2013-11-01T00:00:00.000Z",
+    "durationMicroseconds": 28800000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 13,
+    "timeZoneId": "Asia/Manila",
+    "stationName": "Philippines"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/a38102edcf1"
+  },
+  {
+   "key": "c82328866c5edd549ddadb33bf5ccc4965bfcf5f817dfcd7265c40552d3a878b",
+   "configuration": {
+    "network": "HK",
+    "station": "HKPS",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2020-01-27T07:00:00.000Z",
+    "durationMicroseconds": 14400000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 8,
+    "timeZoneId": "GMT",
+    "stationName": "Po Shan, Hong Kong"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/6297a5d5308"
+  },
+  {
+   "key": "c8863a24dce527956714baa1b8d225de3393748e2cf6f3d42cdc531e845d5712",
+   "configuration": {
+    "network": "GT",
+    "station": "VNDA",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2020-01-13T00:00:00.000Z",
+    "durationMicroseconds": 7200000000,
+    "volumeModifier": "autoAdjusted",
+    "octavesHigher": 14,
+    "timeZoneId": "GMT",
+    "stationName": "Antarctica Ross"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/abaaaa46926"
+  },
+  {
+   "key": "c8b36a14e3f69f7861f3285bdc737964638fcd7647d3d19d138d602a1464e65f",
+   "configuration": {
+    "network": "HK",
+    "station": "HKPS",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2020-01-27T07:00:00.000Z",
+    "durationMicroseconds": 14400000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 13,
+    "timeZoneId": "GMT",
+    "stationName": "Po Shan, Hong Kong"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/43269dc1fcb"
+  },
+  {
+   "key": "caa6a0364dbf0dca320fb503df9f13ea99fd0fbf2232665370024000453f42f4",
+   "configuration": {
+    "network": "II",
+    "station": "BORG",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2023-09-18T22:30:00.000Z",
+    "durationMicroseconds": 7200000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 7,
+    "timeZoneId": "GMT",
+    "stationName": "Iceland"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/a25802603ff"
+  },
+  {
+   "key": "cbcb18ebed16500490fe4cb4b01e49f8d2a80a054dcd99322d2726352d84368c",
+   "configuration": {
+    "network": "IU",
+    "station": "DAV",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2013-11-05T00:00:00.000Z",
+    "durationMicroseconds": 28800000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 9,
+    "timeZoneId": "Asia/Manila",
+    "stationName": "Philippines"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/2240ae99e9a"
+  },
+  {
+   "key": "d1634cba52a2307f49a90154f16e3a2ea83b31641335f43d97dc8c5ecb18e66b",
+   "configuration": {
+    "network": "HK",
+    "station": "HKPS",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2020-01-20T07:00:00.000Z",
+    "durationMicroseconds": 14400000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 8,
+    "timeZoneId": "GMT",
+    "stationName": "Po Shan, Hong Kong"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/e2fa22484d1"
+  },
+  {
+   "key": "d26039e965dcb78e93bebcc96280225b479daf93d6af034b99e9585ac4b218a8",
+   "configuration": {
+    "network": "IU",
+    "station": "DAV",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2013-11-07T00:00:00.000Z",
+    "durationMicroseconds": 28800000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 8,
+    "timeZoneId": "Asia/Manila",
+    "stationName": "Philippines"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/64fb8939cd6"
+  },
+  {
+   "key": "d2dbb21010952891f24d8e7e5ba81f3ca7021125af7f2320d75180f196f07f79",
+   "configuration": {
+    "network": "TA",
+    "station": "L44A",
+    "location": "--",
+    "channel": "HHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2016-09-03T12:00:00.000Z",
+    "durationMicroseconds": 3600000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 14,
+    "timeZoneId": "GMT",
+    "stationName": "Illinois"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/41f06e99498"
+  },
+  {
+   "key": "d3330c37d0330fb5c65859e576cf191548e06364e809d1bbb8b31a87539ddb12",
+   "configuration": {
+    "network": "IU",
+    "station": "DAV",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2013-11-03T00:00:00.000Z",
+    "durationMicroseconds": 28800000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 11,
+    "timeZoneId": "Asia/Manila",
+    "stationName": "Philippines"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/5dc3b2f8128"
+  },
+  {
+   "key": "d388a53f21388295636ef75f952ade0a80719fbf61d885f201458bdc01f147d7",
+   "configuration": {
+    "network": "TA",
+    "station": "Y22D",
+    "location": "--",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2016-09-03T12:00:00.000Z",
+    "durationMicroseconds": 3600000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 11,
+    "timeZoneId": "GMT",
+    "stationName": "Mexico"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/cf89754246e"
+  },
+  {
+   "key": "d3c5f10b8358027f1db3d8b43dc1ec02eae16d6b2ee3d9f7abab44a659d9ba02",
+   "configuration": {
+    "network": "C1",
+    "station": "VA01",
+    "location": "--",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2021-03-22T13:00:00.000Z",
+    "durationMicroseconds": 1800000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 14,
+    "timeZoneId": "America/Santiago",
+    "stationName": "Valparaiso, Chile"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/2d8d3122c1b"
+  },
+  {
+   "key": "d5a5aefed25d013ce14beff447c0b845425603d2a7972a579f0e5205e0d3501a",
+   "configuration": {
+    "network": "HK",
+    "station": "HKPS",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2020-01-20T07:00:00.000Z",
+    "durationMicroseconds": 14400000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 10,
+    "timeZoneId": "GMT",
+    "stationName": "Po Shan, Hong Kong"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/3cba011cc03"
+  },
+  {
+   "key": "d5b90711b6b97875db8789a95dddcda1ef7efdb5bd58229bffc45f624dec2949",
+   "configuration": {
+    "network": "XB",
+    "station": "ELYSE",
+    "location": "02",
+    "channel": "BHW",
+    "unit": "m/s",
+    "planet": "mars",
+    "startDate": "2020-01-13T00:00:00.000Z",
+    "durationMicroseconds": 7200000000,
+    "volumeModifier": "autoAdjusted",
+    "octavesHigher": 7,
+    "timeZoneId": "GMT",
+    "stationName": "Mars InSight"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/cf43a1b5f2e"
+  },
+  {
+   "key": "d6407cf46b2db6a3eaad8ddcd7864eed986e10853ee59161a497b5fb31241ac3",
+   "configuration": {
+    "network": "IU",
+    "station": "DAV",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2013-11-01T00:00:00.000Z",
+    "durationMicroseconds": 28800000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 10,
+    "timeZoneId": "Asia/Manila",
+    "stationName": "Philippines"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/3e521982c03"
+  },
+  {
+   "key": "d66f9ce9b66145ed99c77a7dd591e355e69ecd9fa9d9ac61bc348e5ba9af27f5",
+   "configuration": {
+    "network": "C1",
+    "station": "VA01",
+    "location": "--",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2021-03-22T13:00:00.000Z",
+    "durationMicroseconds": 1800000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 11,
+    "timeZoneId": "America/Santiago",
+    "stationName": "Valparaiso, Chile"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/f3fc9ce58ce"
+  },
+  {
+   "key": "d7f55a3680cd778e02937c80b102dfef9644be9a8e42aec8dd76a8fb63a43f18",
+   "configuration": {
+    "network": "II",
+    "station": "BORG",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2010-04-15T16:00:00.000Z",
+    "durationMicroseconds": 7200000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 7,
+    "timeZoneId": "GMT",
+    "stationName": "Iceland"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/cb343dba15f"
+  },
+  {
+   "key": "da63a5f9044fd231eb484d92f1643e6f0aca2f50653942a624e837432123815c",
+   "configuration": {
+    "network": "II",
+    "station": "BORG",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2023-12-18T22:30:00.000Z",
+    "durationMicroseconds": 7200000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 7,
+    "timeZoneId": "GMT",
+    "stationName": "Iceland"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/3ec3e1d20a3"
+  },
+  {
+   "key": "dabe193000c4ce2fef6ee181860452e5937c9c54018bdd9a6e8e4f9a746aca78",
+   "configuration": {
+    "network": "GT",
+    "station": "LBTB",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2021-03-20T17:00:00.000Z",
+    "durationMicroseconds": 1800000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 13,
+    "timeZoneId": "GMT",
+    "stationName": "Lobatse, Botswana"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/a6d7ab8e20e"
+  },
+  {
+   "key": "dbbae1227f5b547f2a081b71b7f686c34c454c45f0167c956f9ba247af373bc4",
+   "configuration": {
+    "network": "IU",
+    "station": "DAV",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2013-11-04T00:00:00.000Z",
+    "durationMicroseconds": 28800000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 10,
+    "timeZoneId": "Asia/Manila",
+    "stationName": "Philippines"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/7f367239cd4"
+  },
+  {
+   "key": "dbe44b81cbe4688bd95470c173aa8333371aaaffe62ed49289b5360a263b36dc",
+   "configuration": {
+    "network": "XB",
+    "station": "ELYSE",
+    "location": "02",
+    "channel": "BHW",
+    "unit": "m/s",
+    "planet": "mars",
+    "startDate": "2020-01-13T00:00:00.000Z",
+    "durationMicroseconds": 7200000000,
+    "volumeModifier": "autoAdjusted",
+    "octavesHigher": 10,
+    "timeZoneId": "GMT",
+    "stationName": "Mars InSight"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/e66261709a7"
+  },
+  {
+   "key": "dcf440e43fb1365f4dfd1ee303ac1d39442b55596489fd40be57fbeaa11ba812",
+   "configuration": {
+    "network": "IU",
+    "station": "DAV",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2013-11-05T00:00:00.000Z",
+    "durationMicroseconds": 28800000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 7,
+    "timeZoneId": "Asia/Manila",
+    "stationName": "Philippines"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/9d79d9ebaa5"
+  },
+  {
+   "key": "deb6ae55004b1793cd7250cb233cbccd33ef862c52e9accd60828f013a8bd248",
+   "configuration": {
+    "network": "NW",
+    "station": "L44A",
+    "location": "00",
+    "channel": "HHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2021-03-29T18:00:00.000Z",
+    "durationMicroseconds": 28800000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 11,
+    "timeZoneId": "America/Chicago",
+    "stationName": "Illinois"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/decfd7d002e"
+  },
+  {
+   "key": "ded0eaf9a426b377cef1cec12888904202dd8dc49e2df9d23c52295c5ffd833d",
+   "configuration": {
+    "network": "IU",
+    "station": "DAV",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2013-11-03T00:00:00.000Z",
+    "durationMicroseconds": 28800000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 10,
+    "timeZoneId": "Asia/Manila",
+    "stationName": "Philippines"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/733a7ac8516"
+  },
+  {
+   "key": "e17811289ec761d3c0b2360ab909c4d40f151080db991a17715a3d983656767d",
+   "configuration": {
+    "network": "NW",
+    "station": "L44A",
+    "location": "00",
+    "channel": "HHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2021-03-26T18:00:00.000Z",
+    "durationMicroseconds": 28800000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 14,
+    "timeZoneId": "America/Chicago",
+    "stationName": "Illinois"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/203910c0819"
+  },
+  {
+   "key": "e193d2081f3ee361400335b21aa5a458e84e6d2b34962926d577bf611077f414",
+   "configuration": {
+    "network": "IU",
+    "station": "DAV",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2013-11-07T00:00:00.000Z",
+    "durationMicroseconds": 28800000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 13,
+    "timeZoneId": "Asia/Manila",
+    "stationName": "Philippines"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/ab6271c8537"
+  },
+  {
+   "key": "e26835d978eecbd19b1292fad682d4ca22fc8276ceb5f6189edc8c83dc43d8a2",
+   "configuration": {
+    "network": "TA",
+    "station": "L44A",
+    "location": "--",
+    "channel": "HHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2016-09-03T12:00:00.000Z",
+    "durationMicroseconds": 3600000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 13,
+    "timeZoneId": "GMT",
+    "stationName": "Illinois"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/732a3f1d22e"
+  },
+  {
+   "key": "e37e88aa789963f9a09ea51512d4647cfd554b0ead70a6c6592bb88d5dd8f4c2",
+   "configuration": {
+    "network": "II",
+    "station": "PFO",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2009-03-24T11:00:00.000Z",
+    "durationMicroseconds": 7200000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 8,
+    "timeZoneId": "GMT",
+    "stationName": "California"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/c8dcb314694"
+  },
+  {
+   "key": "e4a73767c4d53acd28d9f8fe47b71dcd84f2976a0cff873e046b3af57bab28e7",
+   "configuration": {
+    "network": "II",
+    "station": "BORG",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2023-11-10T16:00:00.000Z",
+    "durationMicroseconds": 7200000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 7,
+    "timeZoneId": "GMT",
+    "stationName": "Iceland"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/486a2c9474e"
+  },
+  {
+   "key": "e7da77bf47f6f19e6165ba1ce16b7cef2f007db28bbd6b94852d010038ba2f72",
+   "configuration": {
+    "network": "IU",
+    "station": "DAV",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2013-11-05T00:00:00.000Z",
+    "durationMicroseconds": 28800000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 14,
+    "timeZoneId": "Asia/Manila",
+    "stationName": "Philippines"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/8dce17b1056"
+  },
+  {
+   "key": "e983e80bd8d8d090999538c0d03f3565bba1137be91e83f9334cf3141cf7d235",
+   "configuration": {
+    "network": "IU",
+    "station": "DAV",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2013-11-05T00:00:00.000Z",
+    "durationMicroseconds": 28800000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 11,
+    "timeZoneId": "Asia/Manila",
+    "stationName": "Philippines"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/8134ac93cbf"
+  },
+  {
+   "key": "e9d3493d1c067b2eca4887ce4bdca9785f874fb88896265dea2f99c489b48b6a",
+   "configuration": {
+    "network": "IU",
+    "station": "DAV",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2013-11-08T00:00:00.000Z",
+    "durationMicroseconds": 28800000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 11,
+    "timeZoneId": "Asia/Manila",
+    "stationName": "Philippines"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/01469036d24"
+  },
+  {
+   "key": "ea6606d8423d561b7b976163d32a4d7899b5b61873c60cf4420d240eba719bb2",
+   "configuration": {
+    "network": "GT",
+    "station": "VNDA",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2020-01-13T00:00:00.000Z",
+    "durationMicroseconds": 7200000000,
+    "volumeModifier": "autoAdjusted",
+    "octavesHigher": 9,
+    "timeZoneId": "GMT",
+    "stationName": "Antarctica Ross"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/9aa477d500c"
+  },
+  {
+   "key": "ea97a41dc88bf9f2474d6950c0aa2865e3a3e1442c558f11c958ed353c81dc42",
+   "configuration": {
+    "network": "IU",
+    "station": "DAV",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2013-11-01T00:00:00.000Z",
+    "durationMicroseconds": 28800000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 14,
+    "timeZoneId": "Asia/Manila",
+    "stationName": "Philippines"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/b385e09673d"
+  },
+  {
+   "key": "eb3196b806a9874890bd14359ae04e2f3ce04a5b7715a98c5e920e0613d8e3f7",
+   "configuration": {
+    "network": "IU",
+    "station": "PAYG",
+    "location": "10",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2020-01-13T00:00:00.000Z",
+    "durationMicroseconds": 7200000000,
+    "volumeModifier": "autoAdjusted",
+    "octavesHigher": 13,
+    "timeZoneId": "GMT",
+    "stationName": "Galapagos"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/293c7185d61"
+  },
+  {
+   "key": "eb536621c62fd522f1f232a33bde74c0fe54c5c8bc82034d3762dd8b474e0654",
+   "configuration": {
+    "network": "IU",
+    "station": "DAV",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2013-11-11T00:00:00.000Z",
+    "durationMicroseconds": 28800000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 11,
+    "timeZoneId": "Asia/Manila",
+    "stationName": "Philippines"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/358d5620233"
+  },
+  {
+   "key": "ebb384982a5ec654a7c9db687f8391188c78e9eef5b0e71a140689d9416abc90",
+   "configuration": {
+    "network": "IU",
+    "station": "DAV",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2013-11-09T00:00:00.000Z",
+    "durationMicroseconds": 28800000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 8,
+    "timeZoneId": "Asia/Manila",
+    "stationName": "Philippines"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/f5c7d483960"
+  },
+  {
+   "key": "ec2c637a2098cddb518d681279ec593b08e17649fd7d713ca56699c172ac8941",
+   "configuration": {
+    "network": "IU",
+    "station": "DAV",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2013-11-07T00:00:00.000Z",
+    "durationMicroseconds": 28800000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 7,
+    "timeZoneId": "Asia/Manila",
+    "stationName": "Philippines"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/69d11ffee3f"
+  },
+  {
+   "key": "ec58633a02b2714f257fd509b9858cb94ae8583c91c0a7b15cbf5141c27b83bb",
+   "configuration": {
+    "network": "IU",
+    "station": "DAV",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2013-11-10T00:00:00.000Z",
+    "durationMicroseconds": 28800000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 8,
+    "timeZoneId": "Asia/Manila",
+    "stationName": "Philippines"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/49d771aeed3"
+  },
+  {
+   "key": "ecabeedb19b3cf471bcfe81ed4e9b5c6d90138f1d378303ca06767ee10abe62d",
+   "configuration": {
+    "network": "TA",
+    "station": "H17A",
+    "location": "--",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2012-03-20T17:00:00.000Z",
+    "durationMicroseconds": 28800000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 8,
+    "timeZoneId": "GMT",
+    "stationName": "Yellowstone"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/265ac733943"
+  },
+  {
+   "key": "ee4ff038e0fd96b99a974e60c3cbf06f560dcb16ff9479a0fed20fc5de7fdebc",
+   "configuration": {
+    "network": "II",
+    "station": "BORG",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2010-04-15T16:00:00.000Z",
+    "durationMicroseconds": 7200000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 14,
+    "timeZoneId": "GMT",
+    "stationName": "Iceland"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/1dc4709c451"
+  },
+  {
+   "key": "eeab773c32a58f9c2328d9cc811b4ce54dc4afefe0d8d693c6ccc5bde087bbc2",
+   "configuration": {
+    "network": "C1",
+    "station": "VA01",
+    "location": "--",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2021-03-22T13:00:00.000Z",
+    "durationMicroseconds": 1800000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 12,
+    "timeZoneId": "America/Santiago",
+    "stationName": "Valparaiso, Chile"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/97301758645"
+  },
+  {
+   "key": "ef20375da03ad9506b8b8e319b28a25a825235507c8d9b534bab9508987d51d5",
+   "configuration": {
+    "network": "IU",
+    "station": "DAV",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2013-11-10T00:00:00.000Z",
+    "durationMicroseconds": 28800000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 11,
+    "timeZoneId": "Asia/Manila",
+    "stationName": "Philippines"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/5b970cfd642"
+  },
+  {
+   "key": "f08b30da4428d46a32c011b1211cd365894745a8bcea6aec8f3562849f2d23bc",
+   "configuration": {
+    "network": "NW",
+    "station": "L44A",
+    "location": "00",
+    "channel": "HHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2021-03-29T18:00:00.000Z",
+    "durationMicroseconds": 28800000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 7,
+    "timeZoneId": "America/Chicago",
+    "stationName": "Illinois"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/df82aab69d0"
+  },
+  {
+   "key": "f0ca43762630d1fc452a4a790e752f348ca405f6974fc782af87054db3b9bf48",
+   "configuration": {
+    "network": "IU",
+    "station": "DAV",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2013-11-01T00:00:00.000Z",
+    "durationMicroseconds": 28800000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 8,
+    "timeZoneId": "Asia/Manila",
+    "stationName": "Philippines"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/975ff870ef6"
+  },
+  {
+   "key": "f26772144f0b699ed9dfc0d72ff4c2fefadeb370fa07376efb6b0dd1c5d51034",
+   "configuration": {
+    "network": "NW",
+    "station": "L44A",
+    "location": "00",
+    "channel": "HHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2021-03-29T18:00:00.000Z",
+    "durationMicroseconds": 28800000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 10,
+    "timeZoneId": "America/Chicago",
+    "stationName": "Illinois"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/7805d548a67"
+  },
+  {
+   "key": "f31a1a724ec299f0f875f2f12219a19a20d09dacc605585c021e11eeff63590e",
+   "configuration": {
+    "network": "US",
+    "station": "RLMT",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2012-03-20T17:00:00.000Z",
+    "durationMicroseconds": 28800000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 13,
+    "timeZoneId": "GMT",
+    "stationName": "Red Lodge"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/4e3597b9fb9"
+  },
+  {
+   "key": "f31cf8dcae65a6482fe57ca3dbb6bb36fc0f8fb123ac11fc3b892ad61a7bde95",
+   "configuration": {
+    "network": "II",
+    "station": "BORG",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2023-11-10T16:00:00.000Z",
+    "durationMicroseconds": 7200000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 10,
+    "timeZoneId": "GMT",
+    "stationName": "Iceland"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/b5a746b9799"
+  },
+  {
+   "key": "f328b54d1abee82a5b0d28add892d403b263e4d0a0c6b2cbe0109b9d2c1d8bae",
+   "configuration": {
+    "network": "NW",
+    "station": "L44A",
+    "location": "00",
+    "channel": "HHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2021-03-26T18:00:00.000Z",
+    "durationMicroseconds": 28800000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 12,
+    "timeZoneId": "America/Chicago",
+    "stationName": "Illinois"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/b4b1a708aee"
+  },
+  {
+   "key": "f3c4d74e7ba6989ffade376e26797688ea4034a92ec7048fbbf6866f19e4e3d4",
+   "configuration": {
+    "network": "GT",
+    "station": "LBTB",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2021-03-20T17:00:00.000Z",
+    "durationMicroseconds": 1800000000,
+    "volumeModifier": "autoAdjusted",
+    "octavesHigher": 12,
+    "timeZoneId": "GMT",
+    "stationName": "Lobatse, Botswana"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/b91d35f1286"
+  },
+  {
+   "key": "f47b194f27db5f68caf8a4efa0da1742540e345a973b259bc04a53bfc7df4113",
+   "configuration": {
+    "network": "IU",
+    "station": "DAV",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2013-11-04T00:00:00.000Z",
+    "durationMicroseconds": 28800000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 12,
+    "timeZoneId": "Asia/Manila",
+    "stationName": "Philippines"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/1f97ef72f80"
+  },
+  {
+   "key": "f4e713db739712bc037f50a5bf4e808b6cb56b05befd948d730ce2af7cf5ef12",
+   "configuration": {
+    "network": "IU",
+    "station": "DAV",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2013-11-04T00:00:00.000Z",
+    "durationMicroseconds": 28800000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 14,
+    "timeZoneId": "Asia/Manila",
+    "stationName": "Philippines"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/50ec004d90d"
+  },
+  {
+   "key": "f6cc96e60cb5904b8ab3470953acbcbdf1db33afb557b8d949a13980173f36c0",
+   "configuration": {
+    "network": "IU",
+    "station": "DAV",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2013-11-01T00:00:00.000Z",
+    "durationMicroseconds": 28800000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 7,
+    "timeZoneId": "Asia/Manila",
+    "stationName": "Philippines"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/857889b505f"
+  },
+  {
+   "key": "f7a3042483657e5e16355f033106956141a323f8e2dce54715ebd864d3f49a3f",
+   "configuration": {
+    "network": "HK",
+    "station": "HKPS",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2020-01-20T07:00:00.000Z",
+    "durationMicroseconds": 14400000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 13,
+    "timeZoneId": "GMT",
+    "stationName": "Po Shan, Hong Kong"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/f399af05868"
+  },
+  {
+   "key": "f7f747dc8e7da80fbfdf8a65c285468eb143d104b682d1c2fe93327cf2840b01",
+   "configuration": {
+    "network": "TA",
+    "station": "Y22D",
+    "location": "--",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2016-09-03T12:00:00.000Z",
+    "durationMicroseconds": 3600000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 13,
+    "timeZoneId": "GMT",
+    "stationName": "Mexico"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/b9d4d082ea1"
+  },
+  {
+   "key": "f87f8f5c41650ab799ec0fb50c293664cd1d1dbfdfdf2435058863e47729857e",
+   "configuration": {
+    "network": "IU",
+    "station": "DAV",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2013-11-11T00:00:00.000Z",
+    "durationMicroseconds": 28800000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 10,
+    "timeZoneId": "Asia/Manila",
+    "stationName": "Philippines"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/f3276605e55"
+  },
+  {
+   "key": "f99dd5069404ed7e2aea63eb811240edf5b29dc64da81412fde08a68501a70ca",
+   "configuration": {
+    "network": "XB",
+    "station": "ELYSE",
+    "location": "02",
+    "channel": "BHW",
+    "unit": "m/s",
+    "planet": "mars",
+    "startDate": "2020-01-13T00:00:00.000Z",
+    "durationMicroseconds": 7200000000,
+    "volumeModifier": "autoAdjusted",
+    "octavesHigher": 14,
+    "timeZoneId": "GMT",
+    "stationName": "Mars InSight"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/8a8bf2ea1c9"
+  },
+  {
+   "key": "fa44cf92847617716ed399899b542868f6624485dbc2f86acb6947adf00d3601",
+   "configuration": {
+    "network": "TA",
+    "station": "L44A",
+    "location": "--",
+    "channel": "HHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2016-09-03T12:00:00.000Z",
+    "durationMicroseconds": 3600000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 11,
+    "timeZoneId": "GMT",
+    "stationName": "Illinois"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/7f5c5e513e9"
+  },
+  {
+   "key": "fac1397b7a3bc2e012ccb051e20df475a45b2f91c6fdcd09a60d6afd8439d413",
+   "configuration": {
+    "network": "IU",
+    "station": "DAV",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2013-11-05T00:00:00.000Z",
+    "durationMicroseconds": 28800000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 10,
+    "timeZoneId": "Asia/Manila",
+    "stationName": "Philippines"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/fad9e5e529e"
+  },
+  {
+   "key": "fac802428c3dde3a08af170a7cf481c347d236017866540277b2c9e23b154f92",
+   "configuration": {
+    "network": "TA",
+    "station": "H17A",
+    "location": "--",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2012-03-20T17:00:00.000Z",
+    "durationMicroseconds": 28800000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 14,
+    "timeZoneId": "GMT",
+    "stationName": "Yellowstone"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/1b7849561a6"
+  },
+  {
+   "key": "fb39a2c3d55090156af38b8a9f2cd70e825c9b15bf0586102d9caee862c62c03",
+   "configuration": {
+    "network": "II",
+    "station": "PFO",
+    "location": "00",
+    "channel": "BHZ",
+    "unit": "m/s",
+    "planet": "earth",
+    "startDate": "2009-03-24T11:00:00.000Z",
+    "durationMicroseconds": 7200000000,
+    "volumeModifier": "fixed",
+    "octavesHigher": 11,
+    "timeZoneId": "GMT",
+    "stationName": "California"
+   },
+   "uri": "https://earthtunes.ci.northwestern.edu/wave/b6609d51c22"
+  }
+ ]
+}

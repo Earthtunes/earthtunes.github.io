@@ -1,0 +1,846 @@
+[
+    {
+        "group": "example",
+        "id": "D5395564-30DC-409C-B8C1-C292C4EB7F0A",
+        "latitude": 61.46,
+        "longitude": -150.75,
+        "name": "Alaska",
+        "periods": [
+            {
+                "channel": "BHZ",
+                "from": "2008-08-15T00:00:00Z",
+                "location": "--",
+                "network": "AK",
+                "station": "SSN",
+                "to": null
+            }
+        ],
+        "preferredTimeZone": {
+            "identifier": "America/Anchorage",
+            "style": "byName"
+        },
+        "timeLatency": 24
+    },
+    {
+        "group": "example",
+        "id": "E1662AA7-A0C2-4B9A-9F16-2274614EA055",
+        "latitude": 33.61,
+        "longitude": -116.46,
+        "name": "California",
+        "periods": [
+            {
+                "channel": "BHZ",
+                "from": "1997-09-19T00:00:00Z",
+                "location": "10",
+                "network": "II",
+                "station": "PFO",
+                "to": null
+            }
+        ],
+        "preferredTimeZone": {
+            "identifier": "America/Los_Angeles",
+            "style": "byName"
+        },
+        "timeLatency": 48
+    },
+    {
+        "group": "example",
+        "id": "6D894CEE-D225-41DD-92F9-35312A940179",
+        "latitude": 21.42,
+        "longitude": -158.01,
+        "name": "Hawaii",
+        "periods": [
+            {
+                "channel": "BHZ",
+                "from": "1999-02-14T23:00:00Z",
+                "location": "00",
+                "network": "IU",
+                "station": "KIP",
+                "to": null
+            }
+        ],
+        "preferredTimeZone": {
+            "identifier": "Pacific/Honolulu",
+            "style": "byName"
+        },
+        "timeLatency": 24
+    },
+    {
+        "group": "example",
+        "id": "3CCF5D30-6F15-4D16-98AC-7F02934AFDDE",
+        "latitude": 42.18,
+        "longitude": -87.91,
+        "name": "Illinois",
+        "periods": [
+            {
+                "channel": "BHZ",
+                "from": "2011-10-10T00:00:00Z",
+                "location": "--",
+                "network": "TA",
+                "station": "L44A",
+                "to": "2015-10-16T18:00:00Z"
+            },
+            {
+                "channel": "HHZ",
+                "from": "2015-10-16T18:00:00Z",
+                "location": "--",
+                "network": "TA",
+                "station": "L44A",
+                "to": "2019-03-14T19:55:00Z"
+            },
+            {
+                "channel": "HHZ",
+                "from": "2019-03-15T01:09:00Z",
+                "location": "00",
+                "network": "NW",
+                "station": "L44A",
+                "to": null
+            }
+        ],
+        "preferredTimeZone": {
+            "identifier": "America/Chicago",
+            "style": "byName"
+        },
+        "timeLatency": 24
+    },
+    {
+        "group": "example",
+        "id": "A367F63B-9A39-49E0-A04A-6EDFB8E722D0",
+        "latitude": 45.70,
+        "longitude": -75.48,
+        "name": "Quebec",
+        "periods": [
+            {
+                "channel": "BHZ",
+                "from": "1993-10-29T17:23:00Z",
+                "location": "--",
+                "network": "CN",
+                "station": "GAC",
+                "to": null
+            }
+        ],
+        "preferredTimeZone": {
+            "identifier": "America/Toronto",
+            "style": "byName"
+        },
+        "timeLatency": 24
+    },
+    {
+        "group": "example",
+        "id": "D39D2764-B78B-4CD8-A706-D392BA0449D0",
+        "latitude": -64.77,
+        "longitude": -64.05,
+        "name": "Antarctica 65W",
+        "periods": [
+            {
+                "channel": "BHZ",
+                "from": "2012-02-19T00:00:00Z",
+                "location": "10",
+                "network": "IU",
+                "station": "PMSA",
+                "to": null
+            }
+        ],
+        "preferredTimeZone": {
+            "identifier": "GMT",
+            "style": "byGMTValue"
+        },
+        "timeLatency": 24
+    },
+    {
+        "group": "example",
+        "id": "CA667295-E4B5-4597-8C38-EE16699FA84D",
+        "latitude": -77.51,
+        "longitude": 161.85,
+        "name": "Antarctica Ross",
+        "periods": [
+            {
+                "channel": "BHZ",
+                "from": "2002-12-06T00:00:00Z",
+                "location": "00",
+                "network": "GT",
+                "station": "VNDA",
+                "to": null
+            }
+        ],
+        "preferredTimeZone": {
+            "identifier": "GMT",
+            "style": "byGMTValue"
+        },
+        "timeLatency": 24
+    },
+    {
+        "group": "example",
+        "id": "F498C118-305C-4704-8AE1-109C744357CC",
+        "latitude": -66.28,
+        "longitude": 110.54,
+        "name": "Antarctica E",
+        "periods": [
+            {
+                "channel": "BHZ",
+                "from": "1999-04-24T06:30:00Z",
+                "location": "10",
+                "network": "IU",
+                "station": "CASY",
+                "to": null
+            }
+        ],
+        "preferredTimeZone": {
+            "identifier": "GMT",
+            "style": "byGMTValue"
+        },
+        "timeLatency": 24
+    },
+    {
+        "group": "example",
+        "id": "CA633E32-B937-4C3D-86ED-095F0132EFA3",
+        "latitude": 46.81,
+        "longitude": 81.98,
+        "name": "Kazakhstan",
+        "periods": [
+            {
+                "channel": "HHZ",
+                "from": "2010-09-10T00:00:00Z",
+                "location": "00",
+                "network": "IU",
+                "station": "MAKZ",
+                "to": null
+            }
+        ],
+        "preferredTimeZone": {
+            "identifier": "Asia/Almaty",
+            "style": "byName"
+        },
+        "timeLatency": 24
+    },
+    {
+        "group": "example",
+        "id": "32523B1B-3408-40B2-AF1A-033C9C5C4831",
+        "latitude": -0.67,
+        "longitude": -90.29,
+        "name": "Galapagos",
+        "periods": [
+            {
+                "channel": "BHZ",
+                "from": "2010-05-05T00:00:00Z",
+                "location": "10",
+                "network": "IU",
+                "station": "PAYG",
+                "to": null
+            }
+        ],
+        "preferredTimeZone": {
+            "identifier": "Pacific/Galapagos",
+            "style": "byName"
+        },
+        "timeLatency": 24
+    },
+    {
+        "group": "example",
+        "id": "41C53FE6-08DF-4E46-A461-8156484E513E",
+        "latitude": 26.84,
+        "longitude": 128.27,
+        "name": "Okinawa, Japan",
+        "periods": [
+            {
+                "channel": "BHZ",
+                "from": "1996-10-06T00:00:00Z",
+                "location": "--",
+                "network": "JP",
+                "station": "JOW",
+                "to": null
+            }
+        ],
+        "preferredTimeZone": {
+            "identifier": "Asia/Tokyo",
+            "style": "byName"
+        },
+        "timeLatency": 24
+    },
+    {
+        "group": "example",
+        "id": "2A4E0CE9-8773-45CE-87A6-918486966AD8",
+        "latitude": 42.02,
+        "longitude": 143.15,
+        "name": "Sapporo, Japan",
+        "periods": [
+            {
+                "channel": "BHZ",
+                "from": "1996-09-18T00:00:00Z",
+                "location": "--",
+                "network": "JP",
+                "station": "JEM",
+                "to": null
+            }
+        ],
+        "preferredTimeZone": {
+            "identifier": "Asia/Tokyo",
+            "style": "byName"
+        },
+        "timeLatency": 24
+    },
+    {
+        "group": "example",
+        "id": "2147F55A-8280-4DA9-8956-5F151CA982AC",
+        "latitude": 39.54,
+        "longitude": -4.35,
+        "name": "Spain",
+        "periods": [
+            {
+                "channel": "BHZ",
+                "from": "1999-02-18T10:00:00Z",
+                "location": "00",
+                "network": "IU",
+                "station": "PAB",
+                "to": null
+            }
+        ],
+        "preferredTimeZone": {
+            "identifier": "Europe/Madrid",
+            "style": "byName"
+        },
+        "timeLatency": 24
+    },
+    {
+        "group": "example",
+        "id": "9241C815-A988-45C6-AF88-A78FB92E66CA",
+        "latitude": 19.03,
+        "longitude": 109.84,
+        "name": "Hainan, China",
+        "periods": [
+            {
+                "channel": "HHZ",
+                "from": "2001-02-18T00:00:00Z",
+                "location": "00",
+                "network": "IC",
+                "station": "QIZ",
+                "to": "2013-01-10T00:00:00Z"
+            },
+            {
+                "channel": "HHZ",
+                "from": "2013-01-10T00:00:00Z",
+                "location": "10",
+                "network": "IC",
+                "station": "QIZ",
+                "to": null
+            }
+        ],
+        "preferredTimeZone": {
+            "identifier": "Asia/Chongqing",
+            "style": "byName"
+        },
+        "timeLatency": 24
+    },
+    {
+        "group": "example",
+        "id": "66484BBE-27FA-4A22-BBE6-692EF3FBD707",
+        "latitude": -0.6,
+        "longitude": 30.74,
+        "name": "Mbarara, Uganda",
+        "periods": [
+            {
+                "channel": "BHZ",
+                "from": "1999-09-22T00:00:00Z",
+                "location": "00",
+                "network": "II",
+                "station": "MBAR",
+                "to": null
+            }
+        ],
+        "preferredTimeZone": {
+            "identifier": "Africa/Kampala",
+            "style": "byName"
+        },
+        "timeLatency": 48
+    },
+    {
+        "group": "example",
+        "id": "6DA05A40-DB1F-42B3-9115-1CC0AFF91BF2",
+        "latitude": -25.02,
+        "longitude": 25.6,
+        "name": "Lobatse, Botswana",
+        "periods": [
+            {
+                "channel": "BHZ",
+                "from": "2011-06-14T11:16:00Z",
+                "location": "00",
+                "network": "GT",
+                "station": "LBTB",
+                "to": null
+            }
+        ],
+        "preferredTimeZone": {
+            "identifier": "Africa/Gaborone",
+            "style": "byName"
+        },
+        "timeLatency": 24
+    },
+    {
+        "group": "example",
+        "id": "2227D6A9-2602-4359-89A8-7FE4C25C032D",
+        "latitude": -4.67,
+        "longitude": 55.48,
+        "name": "Seychelles",
+        "periods": [
+            {
+                "channel": "BHZ",
+                "from": "1995-05-15T00:00:00Z",
+                "location": "10",
+                "network": "II",
+                "station": "MSEY",
+                "to": null
+            }
+        ],
+        "preferredTimeZone": {
+            "identifier": "Indian/Mahe",
+            "style": "byName"
+        },
+        "timeLatency": 48
+    },
+    {
+        "group": "example",
+        "id": "DB451164-3505-43E6-9D97-5C27B36CA825",
+        "latitude": 17.56,
+        "longitude": -98.57,
+        "name": "Tlapa, Mexico",
+        "periods": [
+            {
+                "channel": "BHZ",
+                "from": "2009-01-01T00:00:00Z",
+                "location": "--",
+                "network": "MX",
+                "station": "TLIG",
+                "to": null
+            }
+        ],
+        "preferredTimeZone": {
+            "identifier": "America/Mexico_City",
+            "style": "byName"
+        },
+        "timeLatency": 24
+    },
+    {
+        "group": "example",
+        "id": "77FAD56F-B403-4E1C-8FBD-F0CF706CF2F9",
+        "latitude": -33.02,
+        "longitude": -71.64,
+        "name": "Valparaiso, Chile",
+        "periods": [
+            {
+                "channel": "BHZ",
+                "from": "2014-07-21T22:06:32Z",
+                "location": "--",
+                "network": "C1",
+                "station": "VA01",
+                "to": null
+            }
+        ],
+        "preferredTimeZone": {
+            "identifier": "America/Santiago",
+            "style": "byName"
+        },
+        "timeLatency": 0
+    },
+    {
+        "group": "example",
+        "id": "BF3AE249-FA81-4698-AE89-C6A9E6835B55",
+        "latitude": -23.59,
+        "longitude": -47.43,
+        "name": "Sao Paulo, Brazil",
+        "periods": [
+            {
+                "channel": "BHZ",
+                "from": "2006-11-02T11:12:00Z",
+                "location": "00",
+                "network": "G",
+                "station": "SPB",
+                "to": null
+            }
+        ],
+        "preferredTimeZone": {
+            "identifier": "America/Sao_Paulo",
+            "style": "byName"
+        },
+        "timeLatency": 144
+    },
+    {
+        "group": "example",
+        "id": "EC437F0B-DD25-481A-A911-0ACBF16B1089",
+        "latitude": -29.24,
+        "longitude": -177.93,
+        "name": "Kermadec Islands",
+        "periods": [
+            {
+                "channel": "BHZ",
+                "from": "2013-05-17T21:00:00Z",
+                "location": "00",
+                "network": "IU",
+                "station": "RAO",
+                "to": null
+            }
+        ],
+        "preferredTimeZone": {
+            "identifier": "Pacific/Auckland",
+            "style": "byName"
+        },
+        "timeLatency": 24
+    },
+    {
+        "group": "example",
+        "id": "69CD9404-509D-4B82-9BD9-E9BB0E824E96",
+        "latitude": 7.07,
+        "longitude": 125.58,
+        "name": "Philippines",
+        "periods": [
+            {
+                "channel": "BHZ",
+                "from": "1999-05-10T04:00:00Z",
+                "location": "00",
+                "network": "IU",
+                "station": "DAV",
+                "to": null
+            }
+        ],
+        "preferredTimeZone": {
+            "identifier": "Asia/Manila",
+            "style": "byName"
+        },
+        "timeLatency": 24
+    },
+    {
+        "group": "example",
+        "id": "75CE3978-0286-4392-8ECB-1582EDD6C40B",
+        "latitude": 62.03,
+        "longitude": 129.68,
+        "name": "Russia",
+        "periods": [
+            {
+                "channel": "BHZ",
+                "from": "2017-09-21T00:00:00Z",
+                "location": "10",
+                "network": "IU",
+                "station": "YAK",
+                "to": null
+            }
+        ],
+        "preferredTimeZone": {
+            "identifier": "Asia/Yakutsk",
+            "style": "byName"
+        },
+        "timeLatency": 24
+    },
+    {
+        "group": "example",
+        "id": "60AE0F52-EEF1-4300-BCDC-AEC21C3F3ABA",
+        "latitude": 69.76,
+        "longitude": 27.0,
+        "name": "Finland",
+        "periods": [
+            {
+                "channel": "BHZ",
+                "from": "1999-02-16T07:10:00Z",
+                "location": "10",
+                "network": "IU",
+                "station": "KEV",
+                "to": null
+            }
+        ],
+        "preferredTimeZone": {
+            "identifier": "Europe/Helsinki",
+            "style": "byName"
+        },
+        "timeLatency": 24
+    },
+    {
+        "group": "example",
+        "id": "27A3B348-D08C-4CA0-82AF-F81E7E95A4ED",
+        "latitude": 44.59,
+        "longitude": -123.3,
+        "name": "Oregon",
+        "periods": [
+            {
+                "channel": "BHZ",
+                "from": "1999-02-16T00:00:00Z",
+                "location": "00",
+                "network": "IU",
+                "station": "COR",
+                "to": null
+            }
+        ],
+        "preferredTimeZone": {
+            "identifier": "America/Los_Angeles",
+            "style": "byName"
+        },
+        "timeLatency": 28
+    },
+    {
+        "group": "example",
+        "id": "2EFD7BB2-8385-11EB-8DCD-0242AC130003",
+        "latitude": -40.82,
+        "longitude": 172.53,
+        "name": "New Zealand",
+        "periods": [
+            {
+                "channel": "HHZ",
+                "from": "2003-08-06T00:00:00Z",
+                "location": "10",
+                "network": "NZ",
+                "station": "QRZ",
+                "to": null
+            }
+        ],
+        "preferredTimeZone": {
+            "identifier": "Pacific/Auckland",
+            "style": "byName"
+        },
+        "timeLatency": 24
+    },
+    {
+        "group": "example",
+        "id": "FE6057C3-FD05-42A0-B2A9-19511F80A58A",
+        "latitude": -25.07,
+        "longitude": -130.1,
+        "name": "Pitcairn Island, South Pacific",
+        "periods": [
+            {
+                "channel": "BHZ",
+                "from": "1999-10-18T00:00:00Z",
+                "location": "00",
+                "network": "IU",
+                "station": "PTCN",
+                "to": null
+            }
+        ],
+        "preferredTimeZone": {
+            "identifier": "Pacific/Pitcairn",
+            "style": "byName"
+        },
+        "timeLatency": 24
+    },
+    {
+        "group": "example",
+        "id": "3B975EC0-47EB-476B-B372-2935ABE73B5A",
+        "latitude": 64.7,
+        "longitude": -21.33,
+        "name": "Iceland",
+        "periods": [
+            {
+                "channel": "BHZ",
+                "from": "1994-07-30T00:00:00Z",
+                "location": "00",
+                "network": "II",
+                "station": "BORG",
+                "to": null
+            }
+        ],
+        "preferredTimeZone": {
+            "identifier": "Atlantic/Reykjavik",
+            "style": "byName"
+        },
+        "timeLatency": 48
+    },
+    {
+        "group": "example",
+        "id": "D51D0437-2957-40D1-AAFD-4BD84FFE1415",
+        "latitude": -32.93,
+        "longitude": 117.24,
+        "name": "Narrogin, Australia",
+        "periods": [
+            {
+                "unit": "meterSecond",
+                "channel": "BHZ",
+                "planet": "earth",
+                "station": "NWAO",
+                "id": "981CD9A2-3F3E-4A6F-929A-DB2CCF8F931D",
+                "location": "00",
+                "network": "IU",
+                "from": "1999-02-24T09:00:00Z",
+                "to": "2001-09-13T09:50:00Z"
+            },
+            {
+                "unit": "meterSecond",
+                "channel": "BHZ",
+                "planet": "earth",
+                "station": "NWAO",
+                "id": "4281CD02-6AAE-43EA-9EE7-831EF59881D4",
+                "location": "00",
+                "network": "IU",
+                "from": "2001-09-13T09:50:00Z",
+                "to": "2009-08-09T05:00:00Z"
+            },
+            {
+                "unit": "meterSecond",
+                "channel": "BHZ",
+                "planet": "earth",
+                "station": "NWAO",
+                "id": "5D76A686-A881-48CE-9574-36D74116485A",
+                "location": "00",
+                "network": "IU",
+                "from": "2009-08-09T05:00:00Z",
+                "to": "2010-09-18T05:08:08Z"
+            },
+            {
+                "unit": "meterSecond",
+                "channel": "BHZ",
+                "planet": "earth",
+                "station": "NWAO",
+                "id": "63B4083E-397A-4499-A1CF-23D3A2AFD46F",
+                "location": "00",
+                "network": "IU",
+                "from": "2010-09-25T04:39:37Z",
+                "to": "2011-04-30T07:00:00Z"
+            },
+            {
+                "unit": "meterSecond",
+                "channel": "BHZ",
+                "planet": "earth",
+                "station": "NWAO",
+                "id": "60DE770A-CB7B-4CF4-9BDD-112AA4055586",
+                "location": "00",
+                "network": "IU",
+                "from": "2011-04-30T07:00:00Z",
+                "to":  "2018-09-15T05:00:00Z"
+            },
+            {
+                "unit": "meterSecond",
+                "channel": "BHZ",
+                "planet": "earth",
+                "station": "NWAO",
+                "id": "1C5E01EE-5F55-4603-895D-E31EE24E3890",
+                "location": "00",
+                "network": "IU",
+                "from": "2018-09-15T05:00:00Z",
+                "to": null
+            }
+        ],
+        "preferredTimeZone": {
+            "style": "byName",
+            "identifier": "Australia/Perth"
+        },
+        "timeLatency": 0
+    },
+    {
+      "group": "example",
+      "id": "D090070E-C3AE-4939-A8B5-F6D61D079529",
+      "latitude": -19.94,
+      "longitude": 134.36,
+      "name": "Tennant Creek, NT, Australia",
+      "periods": [
+        {
+          "unit": "meterSecond",
+          "channel": "BHZ",
+          "planet": "earth",
+          "id": "F2086656-5324-4F24-B0B7-023F8793EF1E",
+          "location": "00",
+          "network": "II",
+          "station": "WRAB",
+          "from": "1994-03-27T06:00:00Z",
+          "to": "1997-03-10T05:59:59Z"
+        },
+        {
+          "unit": "meterSecond",
+          "channel": "BHZ",
+          "planet": "earth",
+          "id": "9729E56B-8D08-43BE-A348-ACFE56FCA9F3",
+          "location": "00",
+          "network": "II",
+          "station": "WRAB",
+          "from": "1997-03-10T06:00:00Z",
+          "to": "2002-09-12T09:59:59Z"
+        },
+        {
+          "unit": "meterSecond",
+          "channel": "BHZ",
+          "planet": "earth",
+          "id": "8565576C-9FA0-4F68-9E8A-A4FD2C00BBBF",
+          "location": "00",
+          "network": "II",
+          "station": "WRAB",
+          "from": "2002-09-12T10:00:00Z",
+          "to": "2004-08-10T04:59:59Z"
+        },
+        {
+          "unit": "meterSecond",
+          "channel": "BHZ",
+          "planet": "earth",
+          "id": "92763BE3-22F9-404C-AEDF-CAEE4AEDECA2",
+          "location": "00",
+          "network": "II",
+          "station": "WRAB",
+          "from": "2004-08-10T05:00:00Z",
+          "to": "2008-10-01T04:59:59Z"
+        },
+        {
+          "unit": "meterSecond",
+          "channel": "BHZ",
+          "planet": "earth",
+          "id": "C9482CA5-39FB-4564-AC7D-4E266E97A9FF",
+          "location": "00",
+          "network": "II",
+          "station": "WRAB",
+          "from": "2008-10-01T05:00:00Z",
+          "to": "2009-10-22T08:09:59Z"
+        },
+        {
+          "unit": "meterSecond",
+          "channel": "BHZ",
+          "planet": "earth",
+          "id": "3D335E9C-77B4-4628-AF2D-72333A0013C8",
+          "location": "00",
+          "network": "II",
+          "station": "WRAB",
+          "from": "2009-10-22T08:10:00Z",
+          "to": "2010-08-24T01:29:59Z"
+        },
+        {
+          "unit": "meterSecond",
+          "channel": "BHZ",
+          "planet": "earth",
+          "id": "6B0AF53E-E749-40AC-9EAF-98D33D034EA6",
+          "location": "00",
+          "network": "II",
+          "station": "WRAB",
+          "from": "2010-08-24T01:30:00Z",
+          "to": "2016-11-16T05:59:59Z"
+        },
+        {
+          "unit": "meterSecond",
+          "channel": "BHZ",
+          "planet": "earth",
+          "id": "11B64615-74F3-40A2-A6E8-4261428FC3EF",
+          "location": "00",
+          "network": "II",
+          "station": "WRAB",
+          "from": "2016-11-16T06:00:00Z",
+          "to": "2019-09-29T07:59:59Z"
+        },
+        {
+          "unit": "meterSecond",
+          "channel": "BHZ",
+          "planet": "earth",
+          "id": "5CB56FC8-EA31-4580-9ABA-A04CC7B9DBF7",
+          "location": "00",
+          "network": "II",
+          "station": "WRAB",
+          "from": "2019-09-29T08:00:00Z",
+          "to": "2020-10-14T11:14:59Z"
+        },
+        {
+          "unit": "meterSecond",
+          "channel": "BHZ",
+          "planet": "earth",
+          "id": "493B81A5-E596-4E39-8F0B-4AEF6AD40332",
+          "location": "00",
+          "network": "II",
+          "station": "WRAB",
+          "from": "2020-10-14T11:15:00Z",
+          "to": null
+        }
+      ],
+      "preferredTimeZone": {
+        "style": "byName",
+        "identifier": "Australia/Darwin"
+      },
+      "timeLatency": 0
+    }
+]
