@@ -3,7 +3,7 @@
     "short_name": "Earthtunes",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#54268B",
+    "background_color": "#F7F2FA",
     "theme_color": "#54268B",
     "description": "Listen to seismic waves from Earth and Mars.",
     "orientation": "portrait-primary",

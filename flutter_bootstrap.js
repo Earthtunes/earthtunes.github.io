@@ -49,6 +49,6 @@ _flutter.loader.load({
     forceSingleThreadedSkwasm: true,
   },
   serviceWorkerSettings: {
-    serviceWorkerVersion: "2725267723" /* Flutter's service worker is deprecated and will be removed in a future Flutter release. */,
+    serviceWorkerVersion: "2458388160" /* Flutter's service worker is deprecated and will be removed in a future Flutter release. */,
   },
 });

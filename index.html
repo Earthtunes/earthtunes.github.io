@@ -19,7 +19,20 @@
   <meta charset="UTF-8">
   <meta content="IE=Edge" http-equiv="X-UA-Compatible">
   <meta name="description" content="Listen to seismic waves from Earth and Mars with Earthtunes.">
-  <meta name="theme-color" content="#54268B">
+  <meta name="color-scheme" content="light dark">
+  <meta name="theme-color" content="#F7F2FA" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#211F26" media="(prefers-color-scheme: dark)">
+  <style>
+    html, body {
+      background: #F7F2FA;
+    }
+
+    @media (prefers-color-scheme: dark) {
+      html, body {
+        background: #211F26;
+      }
+    }
+  </style>
 
   <!-- iOS meta tags & icons -->
   <meta name="apple-mobile-web-app-capable" content="yes">
