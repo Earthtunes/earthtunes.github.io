@@ -842,5 +842,425 @@
         "identifier": "Australia/Darwin"
       },
       "timeLatency": 0
+    },
+    {
+        "group": "example",
+        "id": "earthtunes-IU-AFI-00-BHZ",
+        "latitude": -13.90853,
+        "longitude": -171.78265,
+        "name": "American Samoa",
+        "periods": [{
+            "channel": "BHZ", "from": "2018-03-26T00:00:00Z", "location": "00",
+            "network": "IU", "station": "AFI", "to": null,
+            "unit": "meterSecond", "planet": "earth"
+        }],
+        "preferredTimeZone": {"identifier": "Pacific/Pago_Pago", "style": "byName"},
+        "timeLatency": 3600
+    },
+    {
+        "group": "example",
+        "id": "earthtunes-IU-ANMO-00-BHZ",
+        "latitude": 34.94591,
+        "longitude": -106.4572,
+        "name": "New Mexico, USA",
+        "periods": [{
+            "channel": "BHZ", "from": "2018-07-09T20:45:00Z", "location": "00",
+            "network": "IU", "station": "ANMO", "to": null,
+            "unit": "meterSecond", "planet": "earth"
+        }],
+        "preferredTimeZone": {"identifier": "America/Denver", "style": "byName"},
+        "timeLatency": 3600
+    },
+    {
+        "group": "example",
+        "id": "earthtunes-IU-ANTO-00-BHZ",
+        "latitude": 39.8681,
+        "longitude": 32.79356,
+        "name": "Ankara, Turkey",
+        "periods": [{
+            "channel": "BHZ", "from": "2016-06-22T00:00:00Z", "location": "00",
+            "network": "IU", "station": "ANTO", "to": null,
+            "unit": "meterSecond", "planet": "earth"
+        }],
+        "preferredTimeZone": {"identifier": "Europe/Istanbul", "style": "byName"},
+        "timeLatency": 3600
+    },
+    {
+        "group": "example",
+        "id": "earthtunes-IU-BBSR-00-BHZ",
+        "latitude": 32.371299,
+        "longitude": -64.696299,
+        "name": "Bermuda",
+        "periods": [{
+            "channel": "BHZ", "from": "2018-07-31T00:00:00Z", "location": "00",
+            "network": "IU", "station": "BBSR", "to": null,
+            "unit": "meterSecond", "planet": "earth"
+        }],
+        "preferredTimeZone": {"identifier": "Atlantic/Bermuda", "style": "byName"},
+        "timeLatency": 3600
+    },
+    {
+        "group": "example",
+        "id": "earthtunes-IU-CHTO-00-BHZ",
+        "latitude": 18.81401,
+        "longitude": 98.94447,
+        "name": "Chiang Mai, Thailand",
+        "periods": [{
+            "channel": "BHZ", "from": "2019-03-19T00:00:00Z", "location": "00",
+            "network": "IU", "station": "CHTO", "to": null,
+            "unit": "meterSecond", "planet": "earth"
+        }],
+        "preferredTimeZone": {"identifier": "Asia/Bangkok", "style": "byName"},
+        "timeLatency": 3600
+    },
+    {
+        "group": "example",
+        "id": "earthtunes-IU-CTAO-00-BHZ",
+        "latitude": -20.08765,
+        "longitude": 146.24998,
+        "name": "Queensland, Australia",
+        "periods": [{
+            "channel": "BHZ", "from": "2019-05-17T00:00:00Z", "location": "00",
+            "network": "IU", "station": "CTAO", "to": null,
+            "unit": "meterSecond", "planet": "earth"
+        }],
+        "preferredTimeZone": {"identifier": "Australia/Brisbane", "style": "byName"},
+        "timeLatency": 3600
+    },
+    {
+        "group": "example",
+        "id": "earthtunes-IU-FUNA-00-BHZ",
+        "latitude": -8.5259,
+        "longitude": 179.1966,
+        "name": "Funafuti, Tuvalu",
+        "periods": [{
+            "channel": "BHZ", "from": "2019-05-07T04:00:00Z", "location": "00",
+            "network": "IU", "station": "FUNA", "to": null,
+            "unit": "meterSecond", "planet": "earth"
+        }],
+        "preferredTimeZone": {"identifier": "Pacific/Funafuti", "style": "byName"},
+        "timeLatency": 3600
+    },
+    {
+        "group": "example",
+        "id": "earthtunes-IU-FURI-00-BHZ",
+        "latitude": 8.8952,
+        "longitude": 38.6798,
+        "name": "Ethiopia",
+        "periods": [{
+            "channel": "BHZ", "from": "2013-09-18T08:40:00Z", "location": "00",
+            "network": "IU", "station": "FURI", "to": null,
+            "unit": "meterSecond", "planet": "earth"
+        }],
+        "preferredTimeZone": {"identifier": "Africa/Addis_Ababa", "style": "byName"},
+        "timeLatency": 3600
+    },
+    {
+        "group": "example",
+        "id": "earthtunes-IU-GNI-00-BHZ",
+        "latitude": 40.148,
+        "longitude": 44.741,
+        "name": "Garni, Armenia",
+        "periods": [{
+            "channel": "BHZ", "from": "2014-03-19T18:16:59Z", "location": "00",
+            "network": "IU", "station": "GNI", "to": null,
+            "unit": "meterSecond", "planet": "earth"
+        }],
+        "preferredTimeZone": {"identifier": "Asia/Yerevan", "style": "byName"},
+        "timeLatency": 3600
+    },
+    {
+        "group": "example",
+        "id": "earthtunes-IU-GRFO-00-BHZ",
+        "latitude": 49.6909,
+        "longitude": 11.2203,
+        "name": "Bavaria, Germany",
+        "periods": [{
+            "channel": "BHZ", "from": "2019-11-20T17:00:00Z", "location": "00",
+            "network": "IU", "station": "GRFO", "to": null,
+            "unit": "meterSecond", "planet": "earth"
+        }],
+        "preferredTimeZone": {"identifier": "Europe/Berlin", "style": "byName"},
+        "timeLatency": 3600
+    },
+    {
+        "group": "example",
+        "id": "earthtunes-IU-GUMO-00-BHZ",
+        "latitude": 13.5893,
+        "longitude": 144.8684,
+        "name": "Guam",
+        "periods": [{
+            "channel": "BHZ", "from": "2017-08-30T00:00:00Z", "location": "00",
+            "network": "IU", "station": "GUMO", "to": null,
+            "unit": "meterSecond", "planet": "earth"
+        }],
+        "preferredTimeZone": {"identifier": "Pacific/Guam", "style": "byName"},
+        "timeLatency": 3600
+    },
+    {
+        "group": "example",
+        "id": "earthtunes-IU-HNR-00-BHZ",
+        "latitude": -9.4387,
+        "longitude": 159.9475,
+        "name": "Honiara, Solomon Islands",
+        "periods": [{
+            "channel": "BHZ", "from": "2018-03-15T00:00:00Z", "location": "00",
+            "network": "IU", "station": "HNR", "to": null,
+            "unit": "meterSecond", "planet": "earth"
+        }],
+        "preferredTimeZone": {"identifier": "Pacific/Guadalcanal", "style": "byName"},
+        "timeLatency": 3600
+    },
+    {
+        "group": "example",
+        "id": "earthtunes-IU-INCN-00-BHZ",
+        "latitude": 37.47768,
+        "longitude": 126.62436,
+        "name": "Incheon, South Korea",
+        "periods": [{
+            "channel": "BHZ", "from": "2013-11-22T13:18:00Z", "location": "00",
+            "network": "IU", "station": "INCN", "to": null,
+            "unit": "meterSecond", "planet": "earth"
+        }],
+        "preferredTimeZone": {"identifier": "Asia/Seoul", "style": "byName"},
+        "timeLatency": 3600
+    },
+    {
+        "group": "example",
+        "id": "earthtunes-IU-KBS-00-BHZ",
+        "latitude": 78.9154,
+        "longitude": 11.9385,
+        "name": "Svalbard, Norway",
+        "periods": [{
+            "channel": "BHZ", "from": "2014-12-23T13:40:00Z", "location": "00",
+            "network": "IU", "station": "KBS", "to": null,
+            "unit": "meterSecond", "planet": "earth"
+        }],
+        "preferredTimeZone": {"identifier": "Arctic/Longyearbyen", "style": "byName"},
+        "timeLatency": 3600
+    },
+    {
+        "group": "example",
+        "id": "earthtunes-IU-KMBO-00-BHZ",
+        "latitude": -1.1271,
+        "longitude": 37.2525,
+        "name": "Kilima Mbogo, Kenya",
+        "periods": [{
+            "channel": "BHZ", "from": "2014-05-14T00:00:00Z", "location": "00",
+            "network": "IU", "station": "KMBO", "to": null,
+            "unit": "meterSecond", "planet": "earth"
+        }],
+        "preferredTimeZone": {"identifier": "Africa/Nairobi", "style": "byName"},
+        "timeLatency": 3600
+    },
+    {
+        "group": "example",
+        "id": "earthtunes-IU-KONO-00-BHZ",
+        "latitude": 59.6521,
+        "longitude": 9.5946,
+        "name": "Kongsberg, Norway",
+        "periods": [{
+            "channel": "BHZ", "from": "2015-10-03T00:00:00Z", "location": "00",
+            "network": "IU", "station": "KONO", "to": null,
+            "unit": "meterSecond", "planet": "earth"
+        }],
+        "preferredTimeZone": {"identifier": "Europe/Oslo", "style": "byName"},
+        "timeLatency": 3600
+    },
+    {
+        "group": "example",
+        "id": "earthtunes-IU-LSZ-00-BHZ",
+        "latitude": -15.2779,
+        "longitude": 28.1882,
+        "name": "Lusaka, Zambia",
+        "periods": [{
+            "channel": "BHZ", "from": "2015-09-13T00:00:00Z", "location": "00",
+            "network": "IU", "station": "LSZ", "to": null,
+            "unit": "meterSecond", "planet": "earth"
+        }],
+        "preferredTimeZone": {"identifier": "Africa/Lusaka", "style": "byName"},
+        "timeLatency": 3600
+    },
+    {
+        "group": "example",
+        "id": "earthtunes-IU-MACI-00-BHZ",
+        "latitude": 28.2502,
+        "longitude": -16.508199,
+        "name": "Canary Islands",
+        "periods": [{
+            "channel": "BHZ", "from": "2022-08-17T14:00:00Z", "location": "00",
+            "network": "IU", "station": "MACI", "to": null,
+            "unit": "meterSecond", "planet": "earth"
+        }],
+        "preferredTimeZone": {"identifier": "Atlantic/Canary", "style": "byName"},
+        "timeLatency": 3600
+    },
+    {
+        "group": "example",
+        "id": "earthtunes-IU-PET-00-BHZ",
+        "latitude": 53.0233,
+        "longitude": 158.6499,
+        "name": "Kamchatka, Russia",
+        "periods": [{
+            "channel": "BHZ", "from": "2014-08-05T23:00:00Z", "location": "00",
+            "network": "IU", "station": "PET", "to": null,
+            "unit": "meterSecond", "planet": "earth"
+        }],
+        "preferredTimeZone": {"identifier": "Asia/Kamchatka", "style": "byName"},
+        "timeLatency": 3600
+    },
+    {
+        "group": "example",
+        "id": "earthtunes-IU-PMG-00-BHZ",
+        "latitude": -9.4047,
+        "longitude": 147.1597,
+        "name": "Port Moresby, Papua New Guinea",
+        "periods": [{
+            "channel": "BHZ", "from": "2011-07-29T18:28:00Z", "location": "00",
+            "network": "IU", "station": "PMG", "to": null,
+            "unit": "meterSecond", "planet": "earth"
+        }],
+        "preferredTimeZone": {"identifier": "Pacific/Port_Moresby", "style": "byName"},
+        "timeLatency": 3600
+    },
+    {
+        "group": "example",
+        "id": "earthtunes-IU-RAR-00-BHZ",
+        "latitude": -21.2125,
+        "longitude": -159.7733,
+        "name": "Rarotonga, Cook Islands",
+        "periods": [{
+            "channel": "BHZ", "from": "2018-03-28T00:00:00Z", "location": "00",
+            "network": "IU", "station": "RAR", "to": null,
+            "unit": "meterSecond", "planet": "earth"
+        }],
+        "preferredTimeZone": {"identifier": "Pacific/Rarotonga", "style": "byName"},
+        "timeLatency": 3600
+    },
+    {
+        "group": "example",
+        "id": "earthtunes-IU-RCBR-00-BHZ",
+        "latitude": -5.8274,
+        "longitude": -35.9014,
+        "name": "Rio Grande do Norte, Brazil",
+        "periods": [{
+            "channel": "BHZ", "from": "2015-10-13T00:00:00Z", "location": "00",
+            "network": "IU", "station": "RCBR", "to": null,
+            "unit": "meterSecond", "planet": "earth"
+        }],
+        "preferredTimeZone": {"identifier": "America/Fortaleza", "style": "byName"},
+        "timeLatency": 3600
+    },
+    {
+        "group": "example",
+        "id": "earthtunes-IU-SFJD-00-BHZ",
+        "latitude": 66.9961,
+        "longitude": -50.62076,
+        "name": "Greenland",
+        "periods": [{
+            "channel": "BHZ", "from": "2016-01-20T13:00:00Z", "location": "00",
+            "network": "IU", "station": "SFJD", "to": null,
+            "unit": "meterSecond", "planet": "earth"
+        }],
+        "preferredTimeZone": {"identifier": "America/Nuuk", "style": "byName"},
+        "timeLatency": 3600
+    },
+    {
+        "group": "example",
+        "id": "earthtunes-IU-SJG-00-BHZ",
+        "latitude": 18.1091,
+        "longitude": -66.15,
+        "name": "Puerto Rico",
+        "periods": [{
+            "channel": "BHZ", "from": "2017-08-31T00:00:00Z", "location": "00",
+            "network": "IU", "station": "SJG", "to": null,
+            "unit": "meterSecond", "planet": "earth"
+        }],
+        "preferredTimeZone": {"identifier": "America/Puerto_Rico", "style": "byName"},
+        "timeLatency": 3600
+    },
+    {
+        "group": "example",
+        "id": "earthtunes-IU-SNZO-00-BHZ",
+        "latitude": -41.3087,
+        "longitude": 174.7043,
+        "name": "Wellington, New Zealand",
+        "periods": [{
+            "channel": "BHZ", "from": "2018-03-21T00:00:00Z", "location": "00",
+            "network": "IU", "station": "SNZO", "to": null,
+            "unit": "meterSecond", "planet": "earth"
+        }],
+        "preferredTimeZone": {"identifier": "Pacific/Auckland", "style": "byName"},
+        "timeLatency": 3600
+    },
+    {
+        "group": "example",
+        "id": "earthtunes-IU-TARA-00-BHZ",
+        "latitude": 1.3549,
+        "longitude": 172.9229,
+        "name": "Tarawa, Kiribati",
+        "periods": [{
+            "channel": "BHZ", "from": "2019-08-21T22:00:00Z", "location": "00",
+            "network": "IU", "station": "TARA", "to": null,
+            "unit": "meterSecond", "planet": "earth"
+        }],
+        "preferredTimeZone": {"identifier": "Pacific/Tarawa", "style": "byName"},
+        "timeLatency": 3600
+    },
+    {
+        "group": "example",
+        "id": "earthtunes-IU-TATO-00-BHZ",
+        "latitude": 24.9735,
+        "longitude": 121.4971,
+        "name": "Taipei, Taiwan",
+        "periods": [{
+            "channel": "BHZ", "from": "2013-05-08T12:00:00Z", "location": "00",
+            "network": "IU", "station": "TATO", "to": null,
+            "unit": "meterSecond", "planet": "earth"
+        }],
+        "preferredTimeZone": {"identifier": "Asia/Taipei", "style": "byName"},
+        "timeLatency": 3600
+    },
+    {
+        "group": "example",
+        "id": "earthtunes-IU-TRIS-00-BHZ",
+        "latitude": -37.0681,
+        "longitude": -12.3152,
+        "name": "Tristan da Cunha",
+        "periods": [{
+            "channel": "BHZ", "from": "2016-03-18T00:00:00Z", "location": "00",
+            "network": "IU", "station": "TRIS", "to": null,
+            "unit": "meterSecond", "planet": "earth"
+        }],
+        "preferredTimeZone": {"identifier": "Atlantic/St_Helena", "style": "byName"},
+        "timeLatency": 3600
+    },
+    {
+        "group": "example",
+        "id": "earthtunes-IU-TSUM-00-BHZ",
+        "latitude": -19.20227,
+        "longitude": 17.58376,
+        "name": "Tsumeb, Namibia",
+        "periods": [{
+            "channel": "BHZ", "from": "2015-09-03T12:00:00Z", "location": "00",
+            "network": "IU", "station": "TSUM", "to": null,
+            "unit": "meterSecond", "planet": "earth"
+        }],
+        "preferredTimeZone": {"identifier": "Africa/Windhoek", "style": "byName"},
+        "timeLatency": 3600
+    },
+    {
+        "group": "example",
+        "id": "earthtunes-IU-ULN-00-BHZ",
+        "latitude": 47.8651,
+        "longitude": 107.0532,
+        "name": "Ulaanbaatar, Mongolia",
+        "periods": [{
+            "channel": "BHZ", "from": "2013-09-29T00:00:00Z", "location": "00",
+            "network": "IU", "station": "ULN", "to": null,
+            "unit": "meterSecond", "planet": "earth"
+        }],
+        "preferredTimeZone": {"identifier": "Asia/Ulaanbaatar", "style": "byName"},
+        "timeLatency": 3600
     }
 ]
